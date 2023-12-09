@@ -1,0 +1,20 @@
+FreeTP
+MonoBleedingEdge
+Lethal Company.exe
+nvngx_dlss.dll
+NVUnityPlugin.dll
+SteamFix.ini
+SteamFix64.dll
+SteamOverlay64.dll
+UnityCrashHandler64.exe
+UnityPlayer.dll
+winmm.dll
+winmm.txt
+Lethal Company_Data/*
+!Lethal Company_Data/sharedassets1.assets
+!Lethal Company_Data/sharedassets3.assets
+
+.thunderstoremm
+FreeTP.Org.url
+favicon.ico
+ReadMe - как играть по сети.url
