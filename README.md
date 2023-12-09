@@ -2,10 +2,15 @@
 DeadlyCompany - сборка модов игры LethalCompany.
 
 
-## Скрипт установщик ([Скачать](https://github.com//SkoSik/DeadlyCompany/releases/download/Release/updateModPack.bat))
+## Скрипт установщик ([Скачать](https://github.com/SkoSik/DeadlyCompany/releases/download/Release/updateModPack.bat))
 Для установки сборки разместите скрипт в директорию игру и запустите его.
 
 Автоматически будет загружена, распакована и установлена последняя версия сборки.
+
+## Установка архивом ([Скачать](https://github.com/SkoSik/DeadlyCompany/releases/download/Release/LethalCompany1.4.zip))
+Для установки необходимо:
+1. Удалить папку BepInEx из директории игры
+2. Распаковать архив в директорию игры
 
 # Список нововведений сборки
 ## Лобби
