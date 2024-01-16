@@ -13,6 +13,8 @@ winmm.txt
 Lethal Company_Data/*
 BepInEx/cache/*
 BepInEx/LogOutput.log
+!Lethal Company_Data/sharedassets1.assets
+!Lethal Company_Data/sharedassets3.assets
 
 .thunderstoremm
 FreeTP.Org.url
