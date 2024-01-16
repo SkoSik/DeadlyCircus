@@ -1,0 +1,97 @@
+Walk : [W/A/S/D]=Ходить: [W/A/S/D]
+Sprint: [Shift]=Бегать: [Shift]
+Scan : [RMB]=Сканировать: [ПКМ]
+Quit terminal : [TAB]=Выйти из терминала: [Tab]
+
+Get log : [E]=Поднять запись: [E]
+Grab : [E]=Взять: [E]
+Inspect: [Z]=Рассмотреть: [Z]
+Turn page : [Q/E]=Перевернуть страницу: [Q/E]
+Drop clipboard : [G]=Выкинуть планшет: [G]
+Drop Sticky note : [G]=Выкинуть стикер: [G]
+
+Power button : [Q]=ВКЛ/ВЫКЛ: [Q]
+Send voice : [LMB]=Говорить по рации: [ЛКМ]
+Drop Walkie-talkie : [G]=Выкинуть рацию: [G]
+
+Toggle light : [LMB]=ВКЛ/ВЫКЛ: [ЛКМ]
+Drop Flashlight : [G]=Выкинуть фонарик: [G]
+Drop Pro-flashlight : [G]=Выкинуть фонарик: [G]
+
+Swing shovel : [LMB]=Ударить: [ЛКМ]
+Drop Shovel : [G]=Выкинуть лопату: [G]
+
+Toggle music : [LMB]=ВКЛ/ВЫКЛ: [ЛКМ]
+Drop Boombox : [G]=Выкинуть бумбокс: [G]
+
+Use grenade : [LMB]=Использовать: [ЛКМ]
+Throw grenade: [LMB]=Кинуть: [ЛКМ]
+Drop Stun grenade : [G]=Выкинуть гранату: [G]
+
+Take TZP : [LMB]=Принять: [ЛКМ]
+Drop TZP-Inhalant : [G]=Выкинуть ингалятор: [G]
+
+Place on door : [LMB]=Разместить на двери: [ЛКМ]
+Drop Lockpicker : [G]=Выкинуть автоотмычку: [G]
+
+Turn on booster : [LMB]=ВКЛ/ВЫКЛ: [ЛКМ]
+Drop Radar-booster : [G]=Выкинуть рад. усилитель: [G]
+
+Pop up ladder : [LMB]=Выдвинуть: [ЛКМ]
+Drop Extension ladder : [G]=Выкинуть лестницу: [G]
+
+Scan for threat: [LMB]=Сканировать на угрозу: [ЛКМ]
+Drop Zap gun : [G]=Выкинуть электрошокер: [G]
+
+Shake can : [Q]=Встряхнуть: [Q]
+Spray : [LMB]=Нанести краску: [ЛКМ]
+Drop Spray paint : [G]=Выкинуть баллончик: [G]
+
+Use jetpack : [LMB]=Взлететь: [ЛКМ]
+Drop Jetpack : [G]=Выкинуть реакт. ранец: [G]
+
+Change suit=Надеть обычный костюм: [E]
+Change: Green suit=Надеть зеленый костюм: [E]
+Change: Pajama suit=Надеть пижамный костюм: [E]
+Change: Hazard suit=Надеть защитный костюм: [E]
+Change: Purple Suit=Надеть фиолетовый костюм: [E]
+
+Start game : [E]=Запустить корабль: [E]
+Start ship : [E]=Запустить корабль: [E]
+Land ship : [E]=Посадить корабль: [E]
+Access terminal : [E]=Зайти в терминал: [E]
+Disable speaker: [E]=Выключить динамик: [E]
+Switch lights : [E]=ВКЛ/ВЫКЛ: [E]
+Switch camera : [E]=Переключить камеру: [E]
+Turn on/off : [E]=ВКЛ/ВЫКЛ: [E]
+Charge item : [E]=Зарядить предмет: [E]
+Store item : [E]=Положить предмет: [E]
+Open : [E]=Открыть: [E]
+Open: [E]=Открыть/закрыть: [E]
+Open door : [E]=Открыть двери: [E]
+Close door : [E]=Закрыть двери: [E]
+Lift glass : [E]=Поднять/опустить: [E]
+Beam up : [E]=Телепортировать: [E]
+Pull cord: [E] (Hold)=Потянуть за веревку: [E] (зажать)
+Hit pumpkin : [E]=Ударить тыкву: [E]
+Switch TV: [E]=ВКЛ/ВЫКЛ: [E]
+Set candles: [E]=Зажечь свечи: [E]
+Flush: [E]=Смыть: [E]
+Switch water: [E]=ВКЛ/ВЫКЛ: [E]
+Play record: [E]=Поставить пластинку: [E]
+Squeeze : [E]=Жамкнуть: [E]
+Confirm: [B]   |   Rotate: [R]   |   Store: [X]=Подтвердить: [B] | Вращать: [R] | На склад: [X]
+
+Sell item : [E]=Продать предмет: [E]
+Ring bell: [E]=Позвонить в колокольчик: [E]
+Open hatch : [E]=Открыть/закрыть: [E]
+Use ladder : [E]=Взобраться: [E]
+Let go : [E]=Отпуститься: [E]
+Climb : [E]=Забраться: [E]
+
+Enter : [E]=Войти: [E]
+Enter: [E]=Войти: [E]
+Exit : [E]=Выйти: [E]
+Use door : [E]=Открыть/закрыть: [E]
+Pull valve : [E]=Повернуть вентиль: [E]
+Flip switch: [E]=Переключить: [E]

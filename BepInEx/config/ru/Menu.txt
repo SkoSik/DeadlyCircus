@@ -1,0 +1,109 @@
+SET-UP=ПРЕДВАРИТЕЛЬНАЯ НАСТРОЙКА
+Adjust screen brightness until the symbol on the right is barely visible.=Отрегулируйте яркость экрана так, чтобы рисунок справа был едва виден.
+This experience has been designed for in-game voice chat, so I recommend giving it a try.\n\n=Для лучшего игрового опыта рекомендуется использовать внутриигровой голосовой чат.\n\n
+> CONFIRM=> ПОДТВЕРДИТЬ
+  CONFIRM=  ПОДТВЕРДИТЬ
+
+      BG IG, A System-Act Ally\n      Copyright (C) 2084-2108, Halden Electronics Inc.\n\nCPU Type      :     BORSON 300 CPU at 2500 MHz\nMemory test  :      4521586K OK\n\nBoot Distributioner Application v0.04\nCopyright (C) 2107 Distributioner\n    Detecting Sting X ROM\n    Detecting Web LNV Extender\n    Detecting Heartbeats OK\n\n\nUTGF Device Listening...\n\nBody   ID   Neural   Device Class\n________________________________________\n\n2      52   Jo152       H515\n2      52   Sa5155      H515\n2      52   Bo75        H515\n2      52   Eri510      H515\n1      36   Ell567      H515\n1      36   Jos912      H515\n0\n=      BG IG, A System-Act Ally\n      Copyright (C) 2084-2108, Halden Electronics Inc.\n\nПроцессор    :     BORSON 300 CPU, 2500 МГц\nТест памяти  :      4521586K OK\n\nBoot Distributioner Application v0.04\nCopyright (C) 2107 Distributioner\n    Обнаружено Sting X ROM\n    Обнаружено Web LNV Extender\n    Обнаружено Heartbeats OK\n\n\nВыявление UTGF Device...\n\nBody   ID   Neural   Device Class\n________________________________________\n\n2      52   Jo152       H515\n2      52   Sa5155      H515\n2      52   Bo75        H515\n2      52   Eri510      H515\n1      36   Ell567      H515\n1      36   Jos912      H515\n0\n
+
+LAUNCH MODE=РЕЖИМ ЗАПУСКА
+  Online=  По сети
+> Online=> По сети
+(Recommended)= (рекомендуется)
+  LAN=  Локально
+> LAN=> Локально
+(Launched in LAN mode)=(запущено в режиме локальной сети)
+
+> Host=> Создать
+> Join a crew=> Присоединиться к экипажу
+> Join LAN session=> Присоединиться к сессии
+> Settings=> Настройки
+> Credits=> Особая благодарность
+> Quit=> Выйти
+
+[ Confirm ]=[ОК]
+[ Back ]=[НАЗАД]
+Server name:=Название сервера:
+Public=Публичный
+Friends-only=Приватный
+PUBLIC means your game will be visible on the server list for all to see.=ПУБЛИЧНЫЙ: все игроки смогут зайти на этот сервер.
+PRIVATE means you must send invites through Steam for players to join.=ПРИВАТНЫЙ: игроки смогут зайти только по приглашению через Steam.
+Enter a tag...=Добавить тэг...
+With challenge moon=Испытание на луне
+CHALLENGE=ИСПЫТАНИЕ
+
+Host LAN Server:=Локальный сервер:
+Allow remote connections=Удаленные соединения
+Local-only=Местные соединения
+
+Save File=Файл загрузки
+File 1=Файл 1
+File 2=Файл 2
+File 3=Файл 3
+r:"^(\$[0-9]+)\\nDays: ([0-9]+)$"=$1\nДней: $2
+Do you want to delete File 1?=Вы хотите удалить файл 1?
+Do you want to delete File 2?=Вы хотите удалить файл 2?
+Do you want to delete File 3?=Вы хотите удалить файл 3?
+Delete=Удалить
+Go back=Назад
+
+This is the weekly challenge moon. You have one day to make as much profit as possible.=Это еженедельная луна с испытанием. У вас есть только один день на то, чтобы заработать как можно больше прибыли.
+r:"^Challenge Moon ([\s\S]+) Results$"=Итоги испытания на луне $1
+Sort: Friends=Фильтр: друзья
+Sort: Similar rank=Фильтр: мое место
+Sort: Top 20=Фильтр: топ-20
+Loading ranking...=Загрузка рейтинга...
+(Removed score)=(прогресс сброшен)
+[ Remove my score ]= [Сбросить прогресс]
+[ Play again ]=[Играть снова]
+Deceased=погиб
+
+> Back to menu=> Вернуться в меню
+Servers=Серверы
+r:"\[MODDED]([\s\S]+)$"=[МОДЫ] $1
+Loading server list...=Загрузка списка серверов...
+No available servers to join.=Нет доступных серверов.
+Join=Зайти
+Sort: worldwide=Фильтр: мир
+Sort: near=Фильтр: рядом
+Sort: far=Фильтр: далеко
+Enter server tag...=Найти по тэгу...
+[ Refresh ]=[Обновить]
+The server is full!=Нет свободных мест!
+An error occured while spawning into the game. Please report the glitch!=Произошла неизвестная ошибка. Пожалуйста, сообщите об этом!
+An error occured!=Произошла ошибка!
+Error! Could not get the lobby data. Are you offline?=Ошибка! Не удалось получить данные. Вас нет в сети?
+The host has not loaded or has already landed their ship.=Создатель не загрузился, либо корабль уже улетел.
+r:"^The server host is playing on version ([0-9]+) while you are on version ([0-9]+)\.$"=Создатель сервера играет на $1 версии игры, а вы на $2 версии.
+
+> Confirm changes=> Подтвердить изменения
+Unconfirmed changes!=Неподтвержденные изменения!
+Discard changes=Отменить изменения
+> Back=> Назад
+DISCARD=ОТМЕНИТЬ
+BACK=НАЗАД
+> Reset all to default=> Сбросить настройки
+r:"Current input device: \\n ([\s\S]+)$"=Текущее устройство ввода: \n $1
+MODE: Voice activation=Режим: по голосу
+MODE: Push to talk=Режим: нажми и говори
+ENABLED=ВКЛЮЧЕНО
+DISABLED=ВЫКЛЮЧЕНО
+Master volume:=Общая громкость:
+CONTROLS=УПРАВЛЕНИЕ
+Look sensitivity:=Чувствительность мыши:
+Invert Y-Axis=Инверт. ось Y
+DISPLAY=ЭКРАН
+Frame rate cap:=Ограничение частоты кадров:
+r:"^([0-9]+) FPS$"=$1 FPS
+Use monitor (V-Sync)=Частота монитора
+Uncapped=Без ограничений
+Display mode:=Режим отображения:
+Fullscreen=Полноэкранный
+Windowed fullscreen=Окно на весь экран
+Maximized window=Развернутое окно
+Window=В окне
+Gamma/Brightness:=Гамма/яркость:
+ACCESSIBILITY=ДОСТУПНОСТЬ
+Arachnophobia Mode=Режим для арахнофобов
+
+Credits=Большое спасибо!

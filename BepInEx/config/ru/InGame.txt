@@ -1,0 +1,149 @@
+HANDS FULL=РУКИ ЗАНЯТЫ
+Inventory full!=[нет места в инвентаре]
+[Hands full]=[руки заняты]
+[Wait for ship to land]=[дождитесь остановки корабля]
+[Nothing to store]=[нечего положить]
+[ Not holding items ]=[в руках нет предмета]
+[Near activity detected!]=[поблизости обнаружена активность]
+[Cannot pull valve]=[вентиль не поддается]
+[Pulling valve]=[в процессе]
+[Pulling cord]=[в процессе]
+(Cannot hold until ship has landed)=[невозможно до приземления]
+(Requires battery-powered item)=[требуется предмет на батарейках]
+Locked=[заперто]
+r:"^Picking lock: ([0-9]{1,2}) sec.$"=[взлом замка: $1 сек.]
+r:"^\[Cooldown: ([0-9]{1,3}) sec.\]$"=[восстановление: $1 сек.]
+r:"^Value: (\$[0-9]+|[?]+)$"=Стоимость: $1
+r:"^VALUE: (\$[0-9]+|[?]+)$"=Стоимость: $1
+TOTAL:=ВСЕГО:
+(Radar-booster)=Радарный усилитель
+
+VISIBILITY LOW!\n\nSteam leak detected in area=НИЗКАЯ ВИДИМОСТЬ!\n\nОбнаружена утечка пара поблизости.
+Oxygen critically low!=Низкий уровень кислорода!
+(Some were too far to receive your message.)=Некоторые были слишком далеко, чтобы получить ваше сообщение.
+
+Connecting to host...=Подключение...
+Loading...=Загрузка...
+Started server, joining...=Сервер запущен, присоединение...
+Autosaving...=Автосохранение...
+
+SYSTEMS ONLINE=СИСТЕМЫ АКТИВНЫ
+
+r:"([\s\S]+) joined the ship."=$1 присоединился.
+r:"([\s\S]+) started the ship."=$1 запустил корабль.
+r:"([\s\S]+) disconnected."=$1 отключился.
+r:"([\s\S]+) was left behind."=$1 остался позади.
+r:"([\s\S]+) was kicked."=$1 был выгнан.
+
+Press "/" to talk.=Нажмите "/", чтобы\nначать печатать.
+Typing...=Печать...
+
+> Resume=> Возобновить
+> Invite friends=> Пригласить друзей
+Back=Назад
+
+Would you like to leave the game?=Вы хотите покинуть текущую игру?
+The file will NOT save! Your ship must be in orbit.=Прогресс НЕ сохранится! Ваш корабль должен находиться на орбите.
+> Confirm=> Подтвердить
+> Cancel=> Отмена
+The server host disconnected.=Создатель сервера отключился.
+
+CREW:=ЭКИПАЖ:
+Voice volume=Громкость
+r:"^Kick out ([\s\S]+)\?$"=Выгнать $1?
+Kick=Выгнать
+Cancel=Отмена
+
+CRITICAL INJURY=ТЯЖЕЛОЕ РАНЕНИЕ
+[LIFE SUPPORT: OFFLINE]=<size%3D30>[ЖИЗНЕОБЕСПЕЧЕНИЕ: НЕАКТИВНО]</size>
+Tell autopilot ship to leave early : [RMB] (Hold)=Заставить корабль улететь на автопилоте раньше времени: [ПКМ] (зажать)
+r:"^\(([0-9]+\/[0-9]+) Votes\)$"=($1 голосов)
+Voted for ship to leave early=Отдан голос за то, чтобы корабль улетел раньше времени
+Ship leaving in one hour=Корабль улетит в течение часа
+r:"^\(Spectating: ([\s\S]+)\)$"=(наблюдение за: $1)
+(Dead)=(мертв)
+
+r:"^([0-9]+) lb$"=$1 фнт
+DOOR HYDRAULICS:=ГИДРАВЛИКА ДВЕРИ:
+r:"MONITORING: ([\s\S]+)$"=МОНИТОРИНГ: $1
+BROADCASTED SPECIAL CODE=ОТПРАВЛЕН СПЕЦ. КОД
+PERFORMANCE REPORT=<size%3D30>ОТЧЕТ О ПРОДЕЛАННОЙ РАБОТЕ</size>
+
+CHALLENGE RESULTS:=ИТОГИ ИСПЫТАНИЯ:
+r:"^(\$[0-9]+) Collected$"=$1 собрано
+Your rank:=Ваше место:
+(See how you compare to friends in the main menu leaderboard!)=Сравнивайте свои результаты с друзьями в таблице лидеров в главном меню!
+
+YOU ARE FIRED.=ВЫ УВОЛЕНЫ.
+You did not meet the profit quota before the deadline.=Вы не выполнили квоту прибыли до установленного срока.
+Stats=Статистика
+r:"^Days on the job: ([0-9]+)\\nScrap value collected: ([0-9]+)\\nDeaths: ([0-9]+)\\nSteps taken: ([0-9]+)"=Дней на работе: $1\nСобрано лома на цену: $2\nСмертей: $3\nШагов пройдено: $4
+
+2 Days Left=ОСТАЛОСЬ 2 ДНЯ
+1 Day Left=ОСТАЛСЯ 1 ДЕНЬ
+0 Days Left=ОСТАЛОСЬ 0 ДНЕЙ
+TO MEET PROFIT QUOTA=<size%3D40>НА ВЫПОЛНЕНИЕ КВОТЫ ПРИБЫЛИ</size>
+DEADLINE:\n3 Days=КРАЙНИЙ СРОК:\n3 дня
+DEADLINE:\n2 Days=КРАЙНИЙ СРОК:\n2 дня
+DEADLINE:\n1 Days=КРАЙНИЙ СРОК:\n1 день
+DEADLINE:\n0 Days=КРАЙНИЙ СРОК:\n0 дней
+DEADLINE:\n NOW=КРАЙНИЙ СРОК:\nСЕЙЧАС
+AS MUCH PROFIT AS POSSIBLE=КАК МОЖНО БОЛЬШЕ ПРИБЫЛИ
+QUOTA REACHED!=<size%3D60>КВОТА ВЫПОЛНЕНА!</size>
+NEW PROFIT QUOTA:=<size%3D60>НОВАЯ КВОТА ПРИБЫЛИ:</size>
+r:"^Overtime bonus: (\$[0-9]+)$"=Премия: $1
+r:"^PROFIT QUOTA:\\n(\$[0-9]+ \/ \$[0-9]+)$"=КВОТА ПРИБЫЛИ:\n$1
+r:"^Welcome to\\n([\s\S]+)$"=Добро пожаловать на\n$1
+
+Coil=Катушка
+Charges batteries=Заряжает батарейки
+Terminal=Терминал
+Buy flashlights and travel to new planets!=Купите фонарики и летите на планеты
+Brake lever=Тормозной рычаг
+Lands the ship.=Приземляет корабль
+Quota=Квота
+Sell scrap for cash.=Продавайте лом
+Training manual=Учебное пособие
+Useful info!=Полезная информация
+Door controls=Управление дверьми
+Can't stay closed forever=Закрываются на время
+Ship=Корабль
+Home base=Домашняя база
+Main entrance=Главный вход
+Secure door=Механическая дверь
+Can be accessed from terminal=Открывается через терминал
+Data chip=Чип с записью
+
+Landmine=Мина
+Turret=Турель
+
+HAZARD LEVEL:=УГРОЗА УРОВНЯ
+Safe=0
+
+r:"Body of ([\s\S]+)$"=Тело $1
+Cause of death: Gunshots=Причина смерти: застрелен
+Cause of death: Bludgeoning=Причина смерти: прибит
+Cause of death: Gravity=Причина смерти: разбился
+Cause of death: Blast=Причина смерти: взорван
+Cause of death: Strangulation=Причина смерти: сломана шея
+Cause of death: Suffocation=Причина смерти: задушен
+Cause of death: Mauling=Причина смерти: избит
+Cause of death: Crushing=Причина смерти: раздавлен
+Cause of death: Drowning=Причина смерти: утоплен
+Cause of death: Abandoned=Причина смерти: пропал
+Cause of death: Electrocution=Причина смерти: наэлектризован
+Cause of death: Unknown=Причина смерти: неизвестно
+Cause of death: Kicking=Причина смерти: отпинан
+
+Found journal entry: 'First Log - Aug 22=Добавлена запись в журнал: "Первая запись - 22 авг."
+Found journal entry: 'Smells here! - Aug 24=Добавлена запись в журнал: "Здесь воняет! - 24 авг."
+Found journal entry: 'Swing of things - Aug 27=Добавлена запись в журнал: "Курс дела - 27 авг."
+Found journal entry: 'Golden planet - Aug ??=Добавлена запись в журнал: "Золотая планета - ?? авг."
+Found journal entry: 'Shady - Aug 31=Добавлена запись в журнал: "Прикрытие - 31 авг."
+Found journal entry: 'Sound behind the wall - Sep 4=Добавлена запись в журнал: "Звук за стеной - 4 сент."
+Found journal entry: 'Goodbye - Sep 7=Добавлена запись в журнал: "Прощай - 7 сент."
+Found journal entry: 'Screams - Sep 13=Добавлена запись в журнал: "Крики - 13 сент."
+Found journal entry: 'Idea - Sep 19=Добавлена запись в журнал: "Идея - 19 сент."
+Found journal entry: 'Nonsense - Sep 27=Добавлена запись в журнал: "Бред - 27 сент."
+Found journal entry: 'Hiding - Sep 30=Добавлена запись в журнал: "Сокрытие - 30 сент."
+Found journal entry: 'Desmond - Oct 15=Добавлена запись в журнал: "Десмонд - 15 окт."

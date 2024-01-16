@@ -1,4 +1,4 @@
-[Message:   BepInEx] BepInEx 5.4.22.0 - Lethal Company (02.01.2024 12:04:56)
+[Message:   BepInEx] BepInEx 5.4.22.0 - Lethal Company (30.11.2023 6:53:37)
 [Info   :   BepInEx] Running under Unity v2022.3.9.15351836
 [Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
 [Info   :   BepInEx] Supports SRE: True
@@ -23,10 +23,209 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 48 plugins to load
+[Info   :   BepInEx] 60 plugins to load
 [Info   :   BepInEx] Loading [Terminal Api 1.5.0]
 [Info   :Terminal Api] Plugin TerminalApi is loaded!
-[Info   :   BepInEx] Loading [Lethal Company API 3.2.3]
+[Info   :   BepInEx] Loading [SellYourStuff 1.0.1.0]
+[Info   :Axeron.SellYourStuff] SellYourStuff plugin loaded. Version 1.0.1.0
+[Info   :   BepInEx] Loading [Vanilla Content Expansion 0.1.4]
+[Info   :Vanilla Content Expansion] Loaded Scrap Asset bundle from C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\VanillaContentExpansion\customscrap
+[Info   :Vanilla Content Expansion] RETRO_PC Config Loaded: [ENABLED] True | [WEIGHT] 2
+[Info   :Vanilla Content Expansion] CHIP Config Loaded: [ENABLED] True | [WEIGHT] 6
+[Info   :Vanilla Content Expansion] FAN Config Loaded: [ENABLED] True | [WEIGHT] 6
+[Info   :Vanilla Content Expansion] GAS_CAN Config Loaded: [ENABLED] True | [WEIGHT] 6
+[Info   :Vanilla Content Expansion] BEAM Config Loaded: [ENABLED] True | [WEIGHT] 6
+[Info   :Vanilla Content Expansion] CRT Config Loaded: [ENABLED] True | [WEIGHT] 2
+[Info   :Vanilla Content Expansion] PARTS_BOX Config Loaded: [ENABLED] True | [WEIGHT] 6
+[Info   :Vanilla Content Expansion] WIRE_SPOOL Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] BEARING Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] METAL DISK Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] MOTOR Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] STATOR Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] COMPESSOR Config Loaded: [ENABLED] True | [WEIGHT] 8
+[Info   :Vanilla Content Expansion] GEAR1 Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] GEAR2 Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] GEAR3 Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] SCREW1 Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] SCREW2 Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] SCREW3 Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] FLOPPY_DISK Config Loaded: [ENABLED] True | [WEIGHT] 8
+[Info   :Vanilla Content Expansion] WRENCH Config Loaded: [ENABLED] True | [WEIGHT] 8
+[Info   :Vanilla Content Expansion] LOST_HELMET Config Loaded: [ENABLED] True | [WEIGHT] 6
+[Info   :Vanilla Content Expansion] LOST_TANK Config Loaded: [ENABLED] True | [WEIGHT] 6
+[Info   :Vanilla Content Expansion] AERIAL_DISH Config Loaded: [ENABLED] True | [WEIGHT] 3
+[Info   :Vanilla Content Expansion] MISSILE Config Loaded: [ENABLED] True | [WEIGHT] 3
+[Info   :Vanilla Content Expansion] GENERATOR Config Loaded: [ENABLED] True | [WEIGHT] 3
+[Info   :Vanilla Content Expansion] OIL_DRUM Config Loaded: [ENABLED] True | [WEIGHT] 3
+[Info   :Vanilla Content Expansion] STUDIO_CAM Config Loaded: [ENABLED] True | [WEIGHT] 3
+[Info   :Vanilla Content Expansion] SIX_PIN_CABLE Config Loaded: [ENABLED] True | [WEIGHT] 8
+[Info   :Vanilla Content Expansion] CAPACITOR Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] DIODE Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] TRANSISTOR Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] MAGNET Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] TAPE Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] TAPE_MEASURE Config Loaded: [ENABLED] True | [WEIGHT] 10
+[Info   :Vanilla Content Expansion] FLIP_PHONE Config Loaded: [ENABLED] True | [WEIGHT] 4
+[Info   :Vanilla Content Expansion] CONTROL_PANEL Config Loaded: [ENABLED] True | [WEIGHT] 8
+[Info   :Vanilla Content Expansion] CAR_BATTERY Config Loaded: [ENABLED] True | [WEIGHT] 6
+[Info   :Vanilla Content Expansion] PISTON Config Loaded: [ENABLED] True | [WEIGHT] 6
+[Info   :Vanilla Content Expansion] Attempting To register RETRO_PC at Assets/content/scrap/items/case_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: RETRO_PC
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register CHIP at Assets/content/scrap/items/chip_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: CHIP
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register FAN at Assets/content/scrap/items/fan_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: FAN
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register GAS_CAN at Assets/content/scrap/items/gascan_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: GAS_CAN
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register BEAM at Assets/content/scrap/items/metal_beam_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: BEAM
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register CRT at Assets/content/scrap/items/monitor_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: CRT
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register PARTS_BOX at Assets/content/scrap/items/parts_box_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: PARTS_BOX
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register WIRE_SPOOL at Assets/content/scrap/items/wire_spool_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: WIRE_SPOOL
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register BEARING at Assets/content/scrap_2/items/bearing_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: BEARING
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register METAL DISK at Assets/content/scrap_2/items/metaldisk_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: METAL DISK
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register MOTOR at Assets/content/scrap_2/items/motor_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: MOTOR
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register STATOR at Assets/content/scrap_2/items/stator_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: STATOR
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register COMPESSOR at Assets/content/scrap_2/items/compressor_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: COMPESSOR
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register GEAR1 at Assets/content/scrap_2/items/gear_1_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: GEAR1
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register GEAR2 at Assets/content/scrap_2/items/gear_2_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: GEAR2
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register GEAR3 at Assets/content/scrap_2/items/gear_3_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: GEAR3
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register SCREW1 at Assets/content/scrap_2/items/screw_1_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: SCREW1
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register SCREW2 at Assets/content/scrap_2/items/screw_2_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: SCREW2
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register SCREW3 at Assets/content/scrap_2/items/screw_3_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: SCREW3
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register FLOPPY_DISK at Assets/content/scrap_2/items/floppydisk_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: FLOPPY_DISK
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register WRENCH at Assets/content/scrap_2/items/weapon_wrench_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: WRENCH
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register LOST_HELMET at Assets/content/scrap_2/items/helmet_item 20.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: LOST_HELMET
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register LOST_TANK at Assets/content/scrap_2/items/tanks_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: LOST_TANK
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register AERIAL_DISH at Assets/content/scrap_2/items/aerialdish_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: AERIAL_DISH
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register MISSILE at Assets/content/scrap_2/items/missile_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: MISSILE
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register GENERATOR at Assets/content/scrap_2/items/generator_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: GENERATOR
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register OIL_DRUM at Assets/content/scrap_2/items/oildrum_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: OIL_DRUM
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register STUDIO_CAM at Assets/content/scrap_2/items/studiocamera_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: STUDIO_CAM
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register SIX_PIN_CABLE at Assets/content/scrap_3/items/6pin_cable_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: SIX_PIN_CABLE
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register CAPACITOR at Assets/content/scrap_3/items/capacitor_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: CAPACITOR
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register DIODE at Assets/content/scrap_3/items/diode_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: DIODE
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register TRANSISTOR at Assets/content/scrap_3/items/transistor_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: TRANSISTOR
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register MAGNET at Assets/content/scrap_3/items/magnet_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: MAGNET
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register TAPE at Assets/content/scrap_3/items/tape_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: TAPE
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register TAPE_MEASURE at Assets/content/scrap_3/items/tape_measure_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: TAPE_MEASURE
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register FLIP_PHONE at Assets/content/scrap_3/items/flip_phone_interactable_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: FLIP_PHONE
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register CONTROL_PANEL at Assets/content/scrap_3/items/control_panel_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: CONTROL_PANEL
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register CAR_BATTERY at Assets/content/scrap_3/items/car_battery_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: CAR_BATTERY
+[Info   :Vanilla Content Expansion] 
+
+[Info   :Vanilla Content Expansion] Attempting To register PISTON at Assets/content/scrap_3/items/piston_item.asset
+[Info   :Vanilla Content Expansion] Registered Scrap: PISTON
+[Info   :Vanilla Content Expansion] 
+
+[Info   :   BepInEx] Loading [Lethal Company API 3.4.4]
 [Warning:Lethal Company API] 
 .____    _________           _____  __________ .___  
 |    |   \_   ___ \         /  _  \ \______   \|   | 
@@ -41,40 +240,52 @@
 [Info   :MoreDeathNotes] Done.
 [Info   :MoreDeathNotes] Plugin MoreDeathNotes (com.anythinggoesgit.moredeathnotes) is loaded!
 [Info   :MoreDeathNotes] Checking for LC_API...
-[Info   :MoreDeathNotes] LCAPI is present! LC_API:3.2.3
+[Info   :MoreDeathNotes] LCAPI is present! LC_API:3.4.4
 [Info   :   BepInEx] Loading [ShipLoot 1.0]
 [Info   :   BepInEx] Loading [Custom LoudHorn SFX 1.0.0]
 [Info   :com.malco.lethalcompany.customhorn] CustomHorn has been Patched
-[Info   :   BepInEx] Loading [Lethal Company Input Utils 0.4.4]
-[Info   :Lethal Company Input Utils] Plugin com.rune580.LethalCompanyInputUtils is loaded!
+[Info   :   BepInEx] Loading [Lethal Company Input Utils 0.5.5]
+[Info   :Lethal Company Input Utils] InputUtils 0.5.5 has finished loading!
 [Info   :   BepInEx] Loading [Custom Boombox Music 1.4.0]
 [Info   :Custom Boombox Music] Loading...
 [Info   :Custom Boombox Music] Created directory at C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music
 [Info   :Custom Boombox Music] Initializing config...
 [Info   :Custom Boombox Music] Config initialized!
 [Info   :Custom Boombox Music] Loading Complete!
-[Info   :   BepInEx] Loading [DanceHealingOnShip 2.2.0]
-[Info   :DanceHealingOnShip] DanceHealingOnShip is loaded - version 2.2.0
+[Info   :   BepInEx] Loading [DanceHealingOnShip 2.3.0]
+[Info   :DanceHealingOnShip] DanceHealingOnShip is loaded - version 2.3.0
 [Info   :   BepInEx] Loading [ItemQuickSwitchMod 1.1.0]
 [Info   :ItemQuickSwitchMod] ItemQuickSwitchMod is creating binds!
 [Info   :ItemQuickSwitchMod] Plugin ItemQuickSwitchMod is loaded!
+[Info   :   BepInEx] Loading [SpectateEnemy 2.2.1]
+[Info   :SpectateEnemy] SpectateEnemy loaded!
+[Info   :   BepInEx] Loading [DeadAndBored 1.0.4]
+[Info   :DeadAndBored] Dead And Bored loaded!
 [Info   :   BepInEx] Loading [DiscountAlert 2.3.0.0]
 [Info   :DiscountAlert] Plugin discount.alert is loaded!
-[Info   :   BepInEx] Loading [LethalLib 0.10.1]
+[Info   :   BepInEx] Loading [CompanyBuildingEnhancements 2.6.0]
+[Info   :Dreamweave.CompanyBuildingEnhancements] Company Building Enhancements loaded successfully
+[Info   :   BepInEx] Loading [LethalLib 0.13.1]
 [Info   : LethalLib] LethalLib loaded!!
 [Info   : LethalLib] Utilities.Init()
-[Info   :   BepInEx] Loading [DetailedScan 1.2.0]
+[Info   :   BepInEx] Loading [DetailedScan 1.2.2]
 [Info   :fivetoofive.DetailedScan] DetailedScan is loaded!
-[Info   :   BepInEx] Loading [ObjectVolumeController 1.0.3]
+[Info   :   BepInEx] Loading [FixEnemy 1.0.0]
+[Info   :  FixEnemy] Plugin FixEnemy is loaded!
+[Info   :   BepInEx] Loading [ObjectVolumeController 1.0.4]
+[Info   :ObjectVolumeController] BindingConfigs
 [Info   :ObjectVolumeController] ObjectVolumeController loaded
-[Info   :   BepInEx] Loading [TooManyEmotes 1.6.4]
+[Info   :   BepInEx] Loading [TooManyEmotes 1.7.15]
 [Info   :TooManyEmotes] BindingConfigs
 [Info   :TooManyEmotes] Cleaning old config entries
-[Info   :TooManyEmotes] Successfully loaded 11 animation clips from asset bundle: Assets/emotes_complementary
-[Info   :TooManyEmotes] Successfully loaded 43 animation clips from asset bundle: Assets/emotes_0
-[Info   :TooManyEmotes] Successfully loaded 35 animation clips from asset bundle: Assets/emotes_1
-[Info   :TooManyEmotes] Successfully loaded 27 animation clips from asset bundle: Assets/emotes_2
+[Info   :TooManyEmotes] Initializing custom emote hotkeys.
+[Info   :TooManyEmotes] InputUtilsLoaded: True
+[Info   :TooManyEmotes] Successfully loaded 10 animation clips from asset bundle: Assets/emotes_complementary
+[Info   :TooManyEmotes] Successfully loaded 42 animation clips from asset bundle: Assets/emotes_0
+[Info   :TooManyEmotes] Successfully loaded 36 animation clips from asset bundle: Assets/emotes_1
+[Info   :TooManyEmotes] Successfully loaded 23 animation clips from asset bundle: Assets/emotes_2
 [Info   :TooManyEmotes] Successfully loaded 1 animation clips from asset bundle: Assets/emotes_3
+[Info   :TooManyEmotes] Successfully loaded 1 animation clips from asset bundle: Assets/emotes_misc
 [Info   :TooManyEmotes] Successfully loaded radial menu asset.
 [Info   :TooManyEmotes] TooManyEmotes loaded
 [Info   :   BepInEx] Loading [SignalTranslatorUpgrade 1.0.0]
@@ -83,14 +294,29 @@
 [Info   :GoldenKitten.FairAI] Fair AI initiated!
 [Info   :MoreDeathNotes] Injecting patch into Landmine.SpawnExplosion...
 [Info   :MoreDeathNotes] Done.
+[Info   :   BepInEx] Loading [XUnity Auto Translator 5.3.0]
+[Info   :XUnity.AutoTranslator] Version of TextMesh Pro: 1.4.0.
+[Warning:  HarmonyX] AccessTools.Method: Could not find method for type TMPro.TMP_Text and name SetCharArray and parameters (int[], int, int)
+[Warning:XUnity.AutoTranslator] Could not hook 'TMP_Text_SetCharArray_Hook3'. Likely due differences between different versions of the engine or text framework.
+[Info   :XUnity.AutoTranslator] Loaded XUnity.AutoTranslator into Unity [2022.3.9f1] game.
+[Info   :   BepInEx] Loading [XUnity Resource Redirector 2.1.0]
+[Info   :   BepInEx] Loading [Suit Saver 1.1.2]
 [Info   :   BepInEx] Loading [HideModList 1.0.0]
 [Info   :HideModList] Plugin HideModList is loaded!
-[Info   :   BepInEx] Loading [IntroTweaks 1.4.0]
+[Info   :   BepInEx] Loading [LethalLevelLoader 1.0.3]
+[Info   :LethalLevelLoader] LethalLevelLoader loaded!!
+[Info   :   BepInEx] Loading [TakeTheMaskOff 1.3.0]
+[Info   :impulse.TakeTheMaskOff] Time to de the sus
+[Info   :   BepInEx] Loading [IntroTweaks 1.4.2]
 [Info   :IntroTweaks] Plugin loaded.
+[Info   :   BepInEx] Loading [Needy Cats 1.1.1]
+[Info   :Jordo.NeedyCats] Initialized Needy Cats
 [Info   :   BepInEx] Loading [FastSwitchPlayerViewInRadar 1.3.1]
 [Info   :FastSwitchPlayerViewInRadar] krystall9.FastSwitchPlayerViewInRadar plugin has been loaded!
-[Info   :   BepInEx] Loading [LC_Masked_Fix 0.0.1]
+[Info   :   BepInEx] Loading [LC_Masked_Fix 0.0.2]
 [Info   :kuba6000.LC_MimicFixMod] Mimic Fix Awaken!
+[Info   :kuba6000.LC_MimicFixMod] V47/48/49 - Fixes red screen overlay / vomit screen after the kill is inturrupted
+[Info   :kuba6000.LC_MimicFixMod] V45 - Fixes stuck screen after interrupting the kill animation
 [Info   :kuba6000.LC_MimicFixMod] Patching MaskedPlayerEnemy
 [Info   :   BepInEx] Loading [LethalAPI.TerminalCommands 1.1.0]
 [Info   :LethalAPI.TerminalCommands] LethalAPI.TerminalCommands is loading...
@@ -98,12 +324,16 @@
 [Info   :LethalAPI.TerminalCommands] Registering built-in Commands
 [Info   :LethalAPI.TerminalCommands] Plugin LethalAPI.TerminalCommands is loaded!
 [Info   :   BepInEx] Loading [Sell Bodies 1.0.0]
+[Info   :Sell Bodies] Set Hoarding bug to drop Dead Hoarder Bug
+[Info   :Sell Bodies] Set Bunker Spider to drop Dead Bunker Spider
+[Info   :Sell Bodies] Set Crawler to drop Dead Thumper
+[Info   :Sell Bodies] Set Centipede to drop Dead Snare Flea
+[Info   :Sell Bodies] Set Nutcracker to drop Dead Nutcracker
+[Info   :Sell Bodies] Set Flowerman to drop Bracken Remains
+[Info   :Sell Bodies] Set Baboon hawk to drop Dead Baboon Hawk
+[Info   :Sell Bodies] Set MouthDog to drop Dead Eyeless Dog
 [Info   :Sell Bodies] Sell Bodies is patched!
-[Info   :   BepInEx] Loading [MaskedEnemyRework 2.1.0]
-[Info   :MaskedEnemyRework] Plugin MaskedEnemyRework is loaded! Woohoo!
-[Info   :   BepInEx] Loading [HealthMetrics 1.0.0]
-[Info   :Matsuura.HealthMetrics] HealthMetrics Awake
-[Info   :   BepInEx] Loading [MoreCompany 1.7.2]
+[Info   :   BepInEx] Loading [MoreCompany 1.7.4]
 [Info   :MoreCompany] Loading MoreCompany...
 [Info   :MoreCompany] Checking: C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
 [Info   :MoreCompany] Read settings and cosmetics
@@ -132,18 +362,143 @@
 [Info   :MoreCompany] Loaded cosmetic: morehead.shierdora from bundle
 [Info   :MoreCompany] Loaded cosmetic: morehead.Mangguo from bundle
 [Info   :MoreCompany] Loaded cosmetic: morehead.Abutou from bundle
+[Info   :MoreCompany] Loaded cosmetic: EdgyCap.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: KenTails.Pup from bundle
 [Info   :MoreCompany] Loaded cosmetic: morehead.Ayinaodai from bundle
+[Info   :MoreCompany] Loaded cosmetic: bandaid.alien from bundle
+[Info   :MoreCompany] Loaded cosmetic: bandaid.astronaught from bundle
+[Info   :MoreCompany] Loaded cosmetic: bandaid.beerhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: bandaid.cactus from bundle
+[Info   :MoreCompany] Loaded cosmetic: bandaid.flamingo from bundle
+[Info   :MoreCompany] Loaded cosmetic: bandaid.flowercrown from bundle
+[Info   :MoreCompany] Loaded cosmetic: bandaid.paci from bundle
+[Info   :MoreCompany] Loaded cosmetic: bandaid.spider from bundle
+[Info   :MoreCompany] Loaded cosmetic: bandaid.unicorn from bundle
+[Info   :MoreCompany] Loaded cosmetic: bandaid.windup from bundle
+[Info   :MoreCompany] Loaded cosmetic: bandaid.witch from bundle
+[Info   :MoreCompany] Loaded cosmetic: bandaid.pot from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.BeardL from bundle
+[Info   :MoreCompany] Loaded cosmetic: puffy.Beehive from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.BMO from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.Chopped from bundle
+[Info   :MoreCompany] Loaded cosmetic: Sternpenny.Sunglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: Sternpenny.CrossNecklace from bundle
+[Info   :MoreCompany] Loaded cosmetic: DA.Icarus from bundle
+[Info   :MoreCompany] Loaded cosmetic: DA.DBTBGiru from bundle
+[Info   :MoreCompany] Loaded cosmetic: DA.KH2Crown3 from bundle
+[Info   :MoreCompany] Loaded cosmetic: DA.KH2Crown1 from bundle
+[Info   :MoreCompany] Loaded cosmetic: DA.KH2Crown2 from bundle
+[Info   :MoreCompany] Loaded cosmetic: DA.OJBit from bundle
+[Info   :MoreCompany] Loaded cosmetic: DA.SPECIALBOY from bundle
 [Info   :MoreCompany] Loaded cosmetic: bigjoey.diamondchestplate from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.Diglett from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.DoomHelm from bundle
+[Info   :MoreCompany] Loaded cosmetic: equipmentcompany.antenna from bundle
+[Info   :MoreCompany] Loaded cosmetic: equipmentcompany.belthivis from bundle
+[Info   :MoreCompany] Loaded cosmetic: equipmentcompany.carabineryellow from bundle
+[Info   :MoreCompany] Loaded cosmetic: equipmentcompany.carabinertorsot from bundle
+[Info   :MoreCompany] Loaded cosmetic: equipmentcompany.chemlightsgreen from bundle
+[Info   :MoreCompany] Loaded cosmetic: equipmentcompany.helmetcamera from bundle
+[Info   :MoreCompany] Loaded cosmetic: equipmentcompany.rope from bundle
+[Info   :MoreCompany] Loaded cosmetic: equipmentcompany.trackerpiece from bundle
+[Info   :MoreCompany] Loaded cosmetic: equipmentcompany.transmitter from bundle
+[Info   :MoreCompany] Loaded cosmetic: equipmentcompany.facevisordown from bundle
+[Info   :MoreCompany] Loaded cosmetic: equipmentcompany.facevisorup from bundle
+[Info   :MoreCompany] Loaded cosmetic: equipmentcompany.wristpad from bundle
+[Info   :MoreCompany] Loaded cosmetic: EricsScrap.Helmet from bundle
+[Info   :MoreCompany] Loaded cosmetic: AngyBrow.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: Blushie1.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: Blushie2.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: ClosedEye.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: EyeSqueeze.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: KissyMouth.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: Winky.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: Sternpenny.Eyebrows from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.FrogHead from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.GagGlasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: inacraft.gawrgurahat from bundle
+[Info   :MoreCompany] Loaded cosmetic: inacraft.gurahair from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.HeartGlasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.HylianShield from bundle
+[Info   :MoreCompany] Loaded cosmetic: Sternpenny.KnifeSheath from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.KnitHat from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.KrustyHat from bundle
+[Info   :MoreCompany] Loaded cosmetic: inacraft.laplushair from bundle
+[Info   :MoreCompany] Loaded cosmetic: inacraft.laplushorn from bundle
+[Info   :MoreCompany] Loaded cosmetic: inacraft.laplustail from bundle
+[Info   :MoreCompany] Loaded cosmetic: Sternpenny.LeftEyePatch from bundle
 [Info   :MoreCompany] Loaded cosmetic: morehead.lingdang from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.LuffyHat from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.Luigi from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.Mario from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.MasterSword from bundle
+[Info   :MoreCompany] Loaded cosmetic: inacraft.mikuhair from bundle
+[Info   :MoreCompany] Loaded cosmetic: inacraft.mococohair from bundle
+[Info   :MoreCompany] Loaded cosmetic: inacraft.mococoheadphone from bundle
+[Info   :MoreCompany] Loaded cosmetic: inacraft.moonahair from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstbelt from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstnadesboth from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstnadesleft from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstnadesright from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstpack from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstheavypack from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstradiopack from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstchestplatebuck from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstchestplatedare from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstchestplatedutch from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstchestplatemickey from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstchestplateromeo from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstchestplaterookie from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstdoublepouches from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstknife from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstpouches from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstwaist from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstcomms from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstlight from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstnvgs from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odstuparmor from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odsthelmetdutch from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odsthelmetbuck from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odsthelmetdare from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odsthelmetmickey from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odsthelmetromeo from bundle
+[Info   :MoreCompany] Loaded cosmetic: h4.odsthelmetrookie from bundle
+[Info   :MoreCompany] Loaded cosmetic: Zorum.ODST-SMG from bundle
+[Info   :MoreCompany] Loaded cosmetic: puffy.pikminleaf from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.PilotHat from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.PipBoy from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.Plunger from bundle
+[Info   :MoreCompany] Loaded cosmetic: Sternpenny.RightEyePatch from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.SamusHelmet from bundle
+[Info   :MoreCompany] Loaded cosmetic: Species.CowEars.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: Species.Cat.Tail.Black.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: Species.Cat.Tail.Blonde.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: Species.Cat.Tail.Brown.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: Species.Cat.Tail.White.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: StaticWolfEarsBLACK.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: StaticWolfEarsBLONDE.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: StaticWolfEarsBROWN.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: StaticWolfEarsWHITE.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: StaticWolfTailBLACK.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: StaticWolfTailBLONDE.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: StaticWolfTailBROWN.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: StaticWolfTailWHITE.Pup from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.SpongeLicense from bundle
+[Info   :MoreCompany] Loaded cosmetic: inacraft.suiseiPet from bundle
+[Info   :MoreCompany] Loaded cosmetic: Insomniax.SwimmyRing from bundle
 [Info   :MoreCompany] Loaded MoreCompany FULLY
-[Info   :   BepInEx] Loading [BuyableShotgun 1.0.0]
-[Info   :BuyableShotgun] Plugin BuyableShotgun is loaded with version 1.0.0!
-[Info   :   BepInEx] Loading [Buyable Shotgun Shells 1.0.1]
-[Info   :Buyable Shotgun Shells] Plugin Buyable Shotgun Shells is loaded with version 1.0.1!
+[Info   :   BepInEx] Loading [MaskedEnemyRework 2.4.0]
+[Info   :MaskedEnemyRework] Plugin MaskedEnemyRework is loaded! Woohoo!
+[Info   :   BepInEx] Loading [HealthMetrics 1.0.0]
+[Info   :Matsuura.HealthMetrics] HealthMetrics Awake
+[Info   :   BepInEx] Loading [BuyableShotgun 1.0.1]
+[Info   :BuyableShotgun] Plugin BuyableShotgun is loaded with version 1.0.1!
+[Info   :   BepInEx] Loading [Buyable Shotgun Shells 1.0.2]
+[Info   :Buyable Shotgun Shells] Plugin Buyable Shotgun Shells is loaded with version 1.0.2!
 [Info   :   BepInEx] Loading [HornMoan 2.1.0]
 [Info   :MetalPipeSFX.HornMoan] The Moaning is Loading
 [Info   :MetalPipeSFX.HornMoan] Loaded The Moaning Successfully
-[Info   :   BepInEx] Loading [MoreHead 1.2.2]
+[Info   :   BepInEx] Loading [MoreHead 1.2.3]
 [Info   :  MoreHead] MoreHead OK
 [Info   :  MoreHead] MoreHead Asset OK
 [Info   :  MoreHead] Successfully loaded cosmetic: morehead.yan
@@ -170,18 +525,24 @@
 [Info   :  MoreHead] Successfully loaded cosmetic: morehead.wula1
 [Info   :  MoreHead] Successfully loaded cosmetic: morehead.dao2077
 [Info   :  MoreHead] Successfully loaded cosmetic: morehead.wabao
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.maoerbao
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.tanxianbao
+[Info   :  MoreHead] Successfully loaded cosmetic: morehead.siduiyou
 [Info   :   BepInEx] Loading [Scaled Penalty Mod 1.0.0.0]
 [Info   :Migis.ScaledPenaltyMod] Scaled Penalty Mod Awoken
-[Info   :   BepInEx] Loading [Enhanced Radar Booster 1.4.1]
+[Info   :   BepInEx] Loading [MoreInteriors 1.0.0]
+[Info   :MoreInteriorsDunGen] Bunker Assets was loaded
+[Info   :MoreInteriorsDunGen] Was loaded was called
+[Info   :MoreInteriorsDunGen] Registered Moons was called
+[Info   :MoreInteriorsDunGen] More interiors for Lethal Company [Version 1.0.0] successfully loaded.
+[Info   :   BepInEx] Loading [Enhanced Radar Booster 1.5.4]
 [Info   :MrHydralisk.EnhancedRadarBooster] Plugin is loaded!
 [Info   :   BepInEx] Loading [BepInUtils 1.2.1]
 [Info   :BepInUtils] System loaded.
 [Info   :   BepInEx] Loading [Spawnable Store Items 0.1.2]
 [Info   :Spawnable Store Items] [Production] Patched class SpawnPatcher, containing 1 method.
-[Info   :   BepInEx] Loading [Unlimited Sell 1.0.0]
-[Info   :Unlimited Sell] Unlimited Sell Mod Loaded
-[Info   :   BepInEx] Loading [Skinwalker Mod 1.0.8]
-[Info   :RugbugRedfern.SkinwalkerMod] SKINWALKER MOD STARTING UP 1.0.8
+[Info   :   BepInEx] Loading [Skinwalker Mod 2.0.7]
+[Info   :RugbugRedfern.SkinwalkerMod] SKINWALKER MOD STARTING UP 2.0.7
 [Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BaboonHawk VALUE LOADED FROM CONFIG: [False]
 [Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Bracken VALUE LOADED FROM CONFIG: [True]
 [Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BunkerSpider VALUE LOADED FROM CONFIG: [True]
@@ -198,14 +559,14 @@
 [Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Nutcracker VALUE LOADED FROM CONFIG: [True]
 [Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_SporeLizard VALUE LOADED FROM CONFIG: [False]
 [Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Thumper VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_OtherEnemies VALUE LOADED FROM CONFIG: [True]
 [Info   :RugbugRedfern.SkinwalkerMod] VoiceLineFrequency VALUE LOADED FROM CONFIG: [1,5]
 [Info   :RugbugRedfern.SkinwalkerMod] Skinwalker Mod Object Initialized
-[Info   :   BepInEx] Loading [Scoopy's Variety Mod 0.5.1]
+[Info   :   BepInEx] Loading [Scoopy's Variety Mod 0.6.4]
 [Info   :ScoopysVarietyMod] Custom Scrap Loaded Successfully
 [Info   :ScoopysVarietyMod] Unpacking Castle Dungeon Assets...
-[Info   :ScoopysVarietyMod] Loading dungeon defs...
-[Info   :ScoopysVarietyMod] Registering dungeon flows
-[Info   :ScoopysVarietyMod] Registered dungeon interior on the following moons: VowLevel,DineLevel
+[Info   :ScoopysVarietyMod] Initialising dungeon preferences...
+[Info   :ScoopysVarietyMod] Registered dungeon interior on all vanilla moons.
 [Info   :ScoopysVarietyMod] Initialised Successfully
 [Info   :   BepInEx] Loading [FlashlightFix 1.0.5]
 [Info   :FlashlightFix] Configuration Initialized.
@@ -214,384 +575,38 @@
 [Info   :FlashlightFix] FlashlightFix v1.0.5 fully loaded.
 [Info   :   BepInEx] Loading [Paint Color Switch Mod 1.0.0]
 [Info   :Paint Color Switch Mod] Plugin Silvision.PaintColorSwitchMod is loaded!
+[Info   :   BepInEx] Loading [RussianTranslateTerminal 1.0.0]
+[Info   :RussianTranslateTerminal] Plugin snowflake.plugin.russiantranslateterminal (RussianTranslateTerminal) is loaded!
 [Info   :   BepInEx] Loading [Solo's Bodycams 1.0]
 [Info   :Solo's Bodycams] Headcam: True
 [Info   :Solo's Bodycams] Bodycam: False
 [Info   :Solo's Bodycams] Render Texture X value: 160
 [Info   :Solo's Bodycams] Render Texture Y value: 120
 [Info   :Solo's Bodycams] Plugin SolosBodycams is loaded!
-[Info   :   BepInEx] Loading [SpectateEnemy 2.1.0]
-[Info   :SpectateEnemy] SpectateEnemy loaded!
-[Info   :   BepInEx] Loading [Yippee tbh mod 1.2.2]
+[Info   :   BepInEx] Loading [Yippee tbh mod 1.2.3]
 [Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loading.
 [Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loaded. Yippee!!!
-[Info   :   BepInEx] Loading [LC Always Hear Active Walkies 1.4.3]
+[Info   :   BepInEx] Loading [LC Always Hear Active Walkies 1.4.4]
 [Info   :suskitech.LCAlwaysHearActiveWalkie] \ /
 [Info   :suskitech.LCAlwaysHearActiveWalkie] /|\
 [Info   :suskitech.LCAlwaysHearActiveWalkie]  |----|
 [Info   :suskitech.LCAlwaysHearActiveWalkie]  |[__]| Always Hear Active Walkies
-[Info   :suskitech.LCAlwaysHearActiveWalkie]  |.  .| Version 1.4.3 Loaded
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |.  .| Version 1.4.4 Loaded
 [Info   :suskitech.LCAlwaysHearActiveWalkie]  |____|
-[Info   :   BepInEx] Loading [Remote Remaster 1.0.1.0]
-[Info   :SZAKI.RemoteRemaster] Successfully awaken!
+[Info   :suskitech.LCAlwaysHearActiveWalkie] 
+[Info   :suskitech.LCAlwaysHearActiveWalkie] AudibleDistance: 12
+[Info   :suskitech.LCAlwaysHearActiveWalkie] WalkieRecordingRange: 20
+[Info   :suskitech.LCAlwaysHearActiveWalkie] PlayerToPlayerSpatialHearingRange: 20
 [Info   :   BepInEx] Loading [BetterSprayPaint 1.1.0]
 [Info   :BetterSprayPaint] Loading taffyko.BetterSprayPaint
-[Info   :   BepInEx] Loading [Late Company 1.0.9]
+[Info   :   BepInEx] Loading [Late Company 1.0.10]
 [Info   :Late Company] Late Company loaded!
 [Info   :   BepInEx] Loading [Terminal Extras 1.0.1]
-[Info   :   BepInEx] Loading [Mimics 2.3.0]
+[Info   :   BepInEx] Loading [NoSellLimit 1.0.1]
+[Info   :NoSellLimit] Plugin NoSellLimit is loaded!
+[Info   :   BepInEx] Loading [Mimics 2.3.2]
 [Info   :    Mimics] Plugin Mimics is loaded!
 [Info   :   BepInEx] Loading [More Suits 1.4.1]
 [Info   :More Suits] Plugin More Suits is loaded!
 [Message:   BepInEx] Chainloader startup complete
 [Info   :Lethal Company API] LC_API Started!
-[Error  :IntroTweaks] Error getting button: ModSettingsButton
-System.NullReferenceException: Object reference not set to an instance of an object
-  at IntroTweaks.Patches.MenuManagerPatch.GetButton (UnityEngine.GameObject panel, System.String name) [0x0000c] in <6cadbfe2078c40ee956d69a69d714a3a>:IL_000C 
-[Error  :IntroTweaks] System.NullReferenceException: Object reference not set to an instance of an object
-  at IntroTweaks.Patches.MenuManagerPatch.RemoveCreditsButton (System.Collections.Generic.IEnumerable`1[T] buttons) [0x00080] in <6cadbfe2078c40ee956d69a69d714a3a>:IL_0080 
-  at IntroTweaks.Patches.MenuManagerPatch.StartPatch (MenuManager __instance) [0x0010c] in <6cadbfe2078c40ee956d69a69d714a3a>:IL_010C 
-[Message:Lethal Company API] server pre-setup success
-[Info   : LethalLib] Adding 2 items to terminal
-[Message:Terminal Api] Added ftf1 keyword to terminal keywords.
-[Message:Terminal Api] Added detailed keyword to terminal keywords.
-[Message:Terminal Api] Added ds keyword to terminal keywords.
-[Info   :Custom Boombox Music] Preparing to load AudioClips...
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Among Us - Гимн Among Drip.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Awolnation-Run.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Bass.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\DailyRay-pelmeni.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\dancing pirate - me listening to 1700 sea shanties.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\DAVID BEATS - симпл димпл поп ит сквиш фонк.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Def1xxx - kapitan x Whistle baby.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Ernest Merkel(Remix).mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\g3ox_em - GigaChad Theme (Phonk House Version).mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Ghostface Playa - Why Not.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Hampster - Hamster Dance Song.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Hanny Williams - X-Files.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\horse.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Hot Butter - Popcorn (1972).mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\kanash - Клэймэн достал соседа.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Kevin MacLeod- Jaunty Gumption.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Kiddo Laser & Arthas - We Are Number One.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Kirin J Callinan feat. Molly Lewis, Jimmy Barnes - Big Enough.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Klinoff - Bad Piggies Remix.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\library.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\masha.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\MC Dimanche.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\OST Shrek 1 - All Star .mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Phonk Reid - Skibidi bop yes yes.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Red Alert 3 - Soviet Marc.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Scatman John - Scatman (ski-ba-bop-ba-dop-bop).mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Seinfield - Theme (32 kbps).mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\sfainter - Digital.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\shaman-ja-russkijj.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Toby Fox - Nyeh Heh Heh.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\vakcina.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\what - .mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Билли Джин - Кувшин .mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Миль Попс - Миль попс жу жу жу, жу жу жу.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Они - Вишнёвая Семёрка.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Оп - Ап оп ап оп.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\помидоры - помидоры.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Смешарики, Марина Ланда, Сергей Мардарь - Обормот.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\ТынДынДын - Мы жарим картошку.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\ФЛЕКСЕР 7331 - CC Catch - Cause You Bogdan.mp3!
-[Info   :Custom Boombox Music] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\я в джакузи я в джакузи это факт - я в джакузи я в джакузи это факт.mp3!
-[Info   :com.malco.lethalcompany.customhorn] Loading C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\CustomHorn\SUS - AMOGUS.mp3!
-[Info   : LethalLib] ScoopysVarietyMod registered item: Weezer Guitar
-[Info   : LethalLib] ScoopysVarietyMod registered item: Fire Axe
-[Info   : LethalLib] SellBodies registered item: Dead Hoarder Bug
-[Info   : LethalLib] SellBodies registered item: Dead Bunker Spider
-[Info   : LethalLib] SellBodies registered item: Dead Thumper
-[Info   : LethalLib] SellBodies registered item: Dead Snare Flea
-[Info   : LethalLib] SellBodies registered item: Dead Nutcracker
-[Info   : LethalLib] Adding 0 unlockables to unlockables list
-[Info   :RugbugRedfern.SkinwalkerMod] HOST SENDING CONFIG TO CLIENTS
-[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager Awake
-[Info   : LethalLib] Adding 0 items to terminal
-[Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Masked!
-[Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Flowerman!
-[Info   :MaskedEnemyRework] Found Masked!
-[Info   : LethalLib] Diagetic mixer is Diagetic
-[Info   : LethalLib] Found 5 prefabs to fix
-[Info   : LethalLib] Added custom dungeons to levels
-[Info   :TooManyEmotes] Loaded 8 unlockable emotes.
-[Info   :TooManyEmotes] Loaded CurrentEmoteCredits: 100
-[Info   :TooManyEmotes] Loaded Seed: 0
-[Info   :TooManyEmotes] Rotating emote selection in store. Seed: 239488482
-[Info   :TooManyEmotes] Rotate new emote value: 0,179771772669522
-[Info   :TooManyEmotes] Rotate new emote value: 0,543729361865543
-[Info   :TooManyEmotes] Rotate new emote value: 0,667107644335883
-[Info   :TooManyEmotes] Rotate new emote value: 0,261415707534838
-[Info   :TooManyEmotes] Rotate new emote value: 0,757762648518087
-[Info   :TooManyEmotes] Rotate new emote value: 0,0716693713663469
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :TooManyEmotes] Initializing custom emote hotkeys.
-[Info   :TooManyEmotes] Subscribing to OnPressCustomEmoteKey events
-[Warning:Lethal Company API] Asking all other players for their mod list..
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Among Us - Гимн Among Drip.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Awolnation-Run.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Bass.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\DailyRay-pelmeni.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\dancing pirate - me listening to 1700 sea shanties.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\DAVID BEATS - симпл димпл поп ит сквиш фонк.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Def1xxx - kapitan x Whistle baby.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Ernest Merkel(Remix).mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\g3ox_em - GigaChad Theme (Phonk House Version).mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Ghostface Playa - Why Not.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Hampster - Hamster Dance Song.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Hanny Williams - X-Files.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\horse.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Hot Butter - Popcorn (1972).mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\kanash - Клэймэн достал соседа.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Kevin MacLeod- Jaunty Gumption.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Kiddo Laser & Arthas - We Are Number One.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Kirin J Callinan feat. Molly Lewis, Jimmy Barnes - Big Enough.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Klinoff - Bad Piggies Remix.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\library.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\masha.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\MC Dimanche.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\OST Shrek 1 - All Star .mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Phonk Reid - Skibidi bop yes yes.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Red Alert 3 - Soviet Marc.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Scatman John - Scatman (ski-ba-bop-ba-dop-bop).mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Seinfield - Theme (32 kbps).mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\sfainter - Digital.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\shaman-ja-russkijj.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Toby Fox - Nyeh Heh Heh.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\vakcina.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\what - .mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Билли Джин - Кувшин .mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Миль Попс - Миль попс жу жу жу, жу жу жу.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Они - Вишнёвая Семёрка.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Оп - Ап оп ап оп.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\помидоры - помидоры.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Смешарики, Марина Ланда, Сергей Мардарь - Обормот.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\ТынДынДын - Мы жарим картошку.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\ФЛЕКСЕР 7331 - CC Catch - Cause You Bogdan.mp3
-[Info   :Custom Boombox Music] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\я в джакузи я в джакузи это факт - я в джакузи я в джакузи это факт.mp3
-[Info   :com.malco.lethalcompany.customhorn] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\CustomHorn\SUS - AMOGUS.mp3
-[Info   :com.malco.lethalcompany.customhorn] Clips loaded: 1
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :FastSwitchPlayerViewInRadar] Method - HandleTerminalCameraNode | InputActionAsset not yet created
-[Info   :FastSwitchPlayerViewInRadar] Method - HandleTerminalCameraNode | InputActionAsset created successfully
-[Info   :FastSwitchPlayerViewInRadar] Method - HandleTerminalCameraNode | InputActionAsset not yet enabled
-[Info   :FastSwitchPlayerViewInRadar] Method - HandleTerminalCameraNode | InputActionAsset enabled successfully
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Error  :  HarmonyX] Error while running static void LateCompany.Patches.ConnectionApproval_Patch::Postfix(Unity.Netcode.NetworkManager+ConnectionApprovalRequest request, Unity.Netcode.NetworkManager+ConnectionApprovalResponse response). Error: System.NullReferenceException: Object reference not set to an instance of an object
-  at LateCompany.Patches.ConnectionApproval_Patch.Postfix (Unity.Netcode.NetworkManager+ConnectionApprovalRequest request, Unity.Netcode.NetworkManager+ConnectionApprovalResponse response) [0x00019] in <9c566bf45bac432c9916029866e24a81>:IL_0019 
-  at (wrapper dynamic-method) GameNetworkManager.DMD<GameNetworkManager::ConnectionApproval>(GameNetworkManager,Unity.Netcode.NetworkManager/ConnectionApprovalRequest,Unity.Netcode.NetworkManager/ConnectionApprovalResponse)
-[Info   :TooManyEmotes] Started purchasing emote: levitate
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :TooManyEmotes] Sending unlocked emote update to server. Emote id: 73
-[Info   :TooManyEmotes] Receiving unlocked emote update from client for 1 emotes.
-[Warning:Lethal Company API] Asking all other players for their mod list..
-[Info   :TooManyEmotes] Syncing unlocked emotes with clients.
-[Info   :TooManyEmotes] Sending all unlocked emotes update to server.
-[Info   :TooManyEmotes] Receiving unlocked emote update from client for 9 emotes.
-[Info   :TooManyEmotes] Receiving config sync request from client: 1
-[Info   :TooManyEmotes] OnUpdateCustomEmote for player: Player. Emote id: 73
-[Info   :DanceHealingOnShip] PFSkoSik is not in the ship or is not injured
-[Info   :TooManyEmotes] Receiving sync request from client: 1
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :TooManyEmotes] OnUpdateCustomEmote for player: Player. Emote id: -1
-[Info   :TooManyEmotes] OnUpdateCustomEmote for player: Player (1). Emote id: 73
-[Info   :DanceHealingOnShip] Diccionary reseted
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :TooManyEmotes] OnUpdateCustomEmote for player: Player (1). Emote id: -1
-[Info   :ScoopysVarietyMod] Attempting to fix entrance teleporters.
-[Info   :ScoopysVarietyMod] Found EntranceTeleportB prefab.
-[Info   :ScoopysVarietyMod] Replaced EntranceTeleportB prefab.
-[Info   :ScoopysVarietyMod] Found EntranceTeleportA prefab.
-[Info   :ScoopysVarietyMod] Replaced EntranceTeleportA prefab.
-[Info   :ScoopysVarietyMod] 39 vents were successfully replacd.
-[Info   :Spawnable Store Items] [0] Binoculars
-[Info   :Spawnable Store Items] [1] Boombox
-[Info   :Spawnable Store Items] [8] Flashlight
-[Info   :Spawnable Store Items] [0] Jetpack
-[Info   :Spawnable Store Items] [0] Key
-[Info   :Spawnable Store Items] [1] Lockpicker
-[Info   :Spawnable Store Items] [0] Mapper
-[Info   :Spawnable Store Items] [2] Pro-flashlight
-[Info   :Spawnable Store Items] [1] Shovel
-[Info   :Spawnable Store Items] [1] Stun grenade
-[Info   :Spawnable Store Items] [1] Extension ladder
-[Info   :Spawnable Store Items] [1] TZP-Inhalant
-[Info   :Spawnable Store Items] [8] Walkie-talkie
-[Info   :Spawnable Store Items] [0] Zap gun
-[Info   :Spawnable Store Items] [0] Radar-booster
-[Info   :Spawnable Store Items] [0] Shells
-[Info   :Spawnable Store Items] [5] Spray paint
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :Custom Boombox Music] Applying clips!
-[Info   :Custom Boombox Music] Total Clip Count: 41
-[Info   :ObjectVolumeController] Boombox volume: 0,754
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :MaskedEnemyRework] Starting Round Manager
-[Info   :MaskedEnemyRework] Map seed 18 random chance -1
-[Info   :MaskedEnemyRework] no zombies :(
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-[Info   :MetalPipeSFX.HornMoan] Loaded C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :TooManyEmotes] OnUpdateCustomEmote for player: Player (1). Emote id: 73
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :TooManyEmotes] OnUpdateCustomEmote for player: Player (1). Emote id: -1
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled RedLocustBees(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] IsEnemyEnabled DoublewingedBird(Clone) False
-[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
-[Info   :TooManyEmotes] Unsubscribing from OnPressCustomEmoteKey events.
-[Error  :IntroTweaks] Error getting button: ModSettingsButton
-System.NullReferenceException: Object reference not set to an instance of an object
-  at IntroTweaks.Patches.MenuManagerPatch.GetButton (UnityEngine.GameObject panel, System.String name) [0x0000c] in <6cadbfe2078c40ee956d69a69d714a3a>:IL_000C 
-[Error  :IntroTweaks] System.NullReferenceException: Object reference not set to an instance of an object
-  at IntroTweaks.Patches.MenuManagerPatch.RemoveCreditsButton (System.Collections.Generic.IEnumerable`1[T] buttons) [0x00080] in <6cadbfe2078c40ee956d69a69d714a3a>:IL_0080 
-  at IntroTweaks.Patches.MenuManagerPatch.StartPatch (MenuManager __instance) [0x0010c] in <6cadbfe2078c40ee956d69a69d714a3a>:IL_010C 

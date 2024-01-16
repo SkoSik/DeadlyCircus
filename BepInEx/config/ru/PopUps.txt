@@ -1,0 +1,9 @@
+r:"^Version ([0-9]+) is out!$"=Версия $1 вышла!
+r:"^Welcome! Version ([0-9]+) is out now.\\nOthers must update their game to play with you on this version.\\n\\n\\nGood luck!$"=Добро пожаловать! Версия $1 уже вышла.\nДругие игроки также должны обновиться, чтобы поиграть с вами на этой версии.\n\n\nУдачи!
+Welcome!\nThis patch includes the replayable challenge moons and new factory hallway types, as well as some tweaks to existing creatures.\n\nOthers must update their game to play with you on this version.\n\n\nGood luck!=Добро пожаловать!\nЭтот патч включает в себя переигрываемые луны с испытаниями, новые типы коридоров в комплексе, а также некоторые изменения, касающиеся существ.\n\n\nУдачи!
+[ Continue ]=[Продолжить]
+
+You are in LAN mode. When allowing remote connections through LAN, please ensure you have sufficient network security such as a firewall and/or VPN.=Вы находитесь в режиме локальной сети. При разрешении удаленных соединений через локальную сеть, убедитесь, что ваша сеть достаточно защищена (например, брандмауэром и/или VPN).
+
+Could not connect to Steam servers! (If you just want to play on your local network, choose LAN on launch.)=Не удалось подключиться к серверам Steam! (если вы хотите поиграть через локальную сеть, то выберите соответствующий режим при запуске)
+Continue=Продолжить

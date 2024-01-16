@@ -1,0 +1,7 @@
+PILOT COMPUTER=БОРТОВОЙ КОМПЬЮТЕР
+WARNING!!! The autopilot ship will leave at midnight. Please return quickly.=ВНИМАНИЕ!!! Корабль улетит на автопилоте в полночь. Пожалуйста, возвращайтесь скорее.
+Warning! No response from crew, which has not returned. Emergency code activated.=Внимание! Нет ответа от потерянного экипажа. Активирован аварийный код.
+The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=Автопилот доставит корабль на ближайший безопасный космический порт. Все ваши вещи были потеряны.
+Alert! The autopilot is leaving due to dangerous conditions.=Тревога! Корабль улетает на автопилоте из-за опасных условий.
+The Company must minimize risk of damage to proprietary hardware. Goodbye!=Компания должна минимизировать риск повреждения фирменного оборудования. До связи!
+r:"^WARNING! Please return by (.*)\. A vote has been cast, and the autopilot ship will leave early."=ВНИМАНИЕ! Вернитесь на корабль к $1. Путем голосования решено, что корабль улетит на автопилоте раньше времени.

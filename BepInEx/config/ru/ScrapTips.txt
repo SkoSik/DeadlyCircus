@@ -1,0 +1,174 @@
+Drop Key : [G]=Выкинуть ключ: [G]
+Use key : [LMB]=Отпереть дверь: [ЛКМ]
+Use key: [ LMB ]=Использовать ключ: [ЛКМ]
+
+Drop Body : [G]=Выкинуть тело: [G]
+r:"([\s\S]+) collected!"=$1 на корабле!
+
+Wear mask : [LMB]=Надеть: [ЛКМ]
+Drop Comedy : [G]=Выкинуть маску Комедии: [G]
+Drop Tragedy : [G]=Выкинуть маску Трагедии: [G]
+Comedy collected!=Маска Комедии на корабле!
+Tragedy collected!=Маска Трагедии на корабле!
+
+Drop Whoopie cushion : [G]=Выкинуть подушку-пердушку: [G]
+Whoopie cushion collected!=Подушка-пердушка на корабле!
+
+Drop Flask : [G]=Выкинуть колбу: [G]
+Flask collected!=Колба на корабле!
+
+Drop Tea kettle : [G]=Выкинуть чайник: [G]
+Tea kettle collected!=Чайник на корабле!
+
+Drop Rubber Ducky : [G]=Выкинуть уточку: [G]
+Rubber Ducky collected!=Резиновая уточка на корабле!
+
+Drop Red soda : [G]=Выкинуть газировку: [G]
+Red soda collected!=Газировка на корабле!
+
+Drop Plastic fish : [G]=Выкинуть рыбку: [G]
+Plastic fish collected!=Пластмассовая рыбка на корабле!
+
+Drop Pill bottle : [G]=Выкинуть таблетницу: [G]
+Pill bottle collected!=Таблетница на корабле!
+
+Drop Perfume bottle : [G]=Выкинуть флакон: [G]
+Perfume bottle collected!=Флакон для духов на корабле!
+
+Drop Painting : [G]=Выкинуть картину: [G]
+Painting collected!=Картина на корабле!
+
+Drop Old phone : [G]=Выкинуть телефон: [G]
+Old phone collected!=Старый телефон на корабле!
+
+Drop Magic 7 ball : [G]=Выкинуть шар: [G]
+Magic 7 ball collected!=Магический шар 7 на корабле!
+
+Use hairdryer : [LMB]=Включить: [ЛКМ]
+Drop Hairdryer : [G]=Выкинуть фен: [G]
+Hairdryer collected!=Фен на корабле!
+
+Drop Brush : [G]=Выкинуть расческу: [G]
+Brush collected!=Расческа на корабле!
+
+Drop Golden cup : [G]=Выкинуть кубок: [G]
+Golden cup collected!=Золотой кубок на корабле!
+
+Drop Gold bar : [G]=Выкинуть слиток: [G]
+Gold bar collected!=Золотой слиток на корабле!
+
+Drop Fancy lamp : [G]=Выкинуть лампу: [G]
+Fancy lamp collected!=Причудливая лампа на корабле!
+
+Drop Egg beater : [G]=Выкинуть венчик: [G]
+Egg beater collected!=Венчик на корабле!
+
+Drop Coffee mug : [G]=Выкинуть кружку: [G]
+Coffee mug collected!=Кружка для кофе на корабле!
+
+Drop Mug : [G]=Выкинуть кружку: [G]
+Mug collected!=Кружка на корабле!
+
+Drop Chemical jug : [G]=Выкинуть канистру: [G]
+Chemical jug collected!=Канистра для химикатов на корабле!
+
+Use cash register : [LMB]=Открыть/закрыть: [ЛКМ]
+Drop Cash register : [G]=Выкинуть кассу: [G]
+Cash register collected!=Кассовый аппарат на корабле!
+
+Drop Candy : [G]=Выкинуть леденец: [G]
+Candy collected!=Леденец на корабле!
+
+Drop Bell : [G]=Выкинуть колокол: [G]
+Bell collected!=Медный колокол на корабле!
+
+Drop Teeth : [G]=Выкинуть челюсть: [G]
+Teeth collected!=Заводная челюсть на корабле!
+
+Drop Toothpaste : [G]=Выкинуть зубную пасту: [G]
+Toothpaste collected!=Зубная паста на корабле!
+
+Drop Ring : [G]=Выкинуть кольцо: [G]
+Ring collected!=Обручальное кольцо на корабле!
+
+Drop Apparatus : [G]=Выкинуть генератор: [G]
+Apparatus collected!=РИТЭГ на корабле!
+
+Drop V-type engine : [G]=Выкинуть двигатель: [G]
+V-type engine collected!=V-образный двигатель на корабле!
+
+Drop Large axle : [G]=Выкинуть ось: [G]
+Large axle collected!=Большая ось на корабле!
+
+Drop Bottles : [G]=Выкинуть ящик: [G]
+Bottles collected!=Ящик с бутылками на корабле!
+
+Drop Hive : [G]=Выкинуть гнездо: [G]
+Hive collected!=Пчелиное гнездо на корабле!
+
+Swing sign : [LMB]=Ударить: [ЛКМ]
+Drop Stop sign : [G]=Выкинуть знак: [G]
+Drop Yield sign : [G]=Выкинуть знак: [G]
+Stop sign collected!=Знак "СТОП" на корабле!
+Yield sign collected!=Знак "УСТУПИ ДОРОГУ" на корабле!
+
+Drop Steering wheel : [G]=Выкинуть руль: [G]
+Steering wheel collected!=Рулевое колесо на корабле!
+
+Drop Big bolt : [G]=Выкинуть болт: [G]
+Big bolt collected!=Большой болт на корабле!
+
+Drop Metal sheet : [G]=Выкинуть лист металла: [G]
+Metal sheet collected!=Рваный лист металла на корабле!
+
+Drop Dust pan : [G]=Выкинуть совок: [G]
+Dust pan collected!=Совок для пыли на корабле!
+
+Use airhorn : [LMB]=Потрубить: [ЛКМ]
+Drop Airhorn : [G]=Выкинуть горн: [G]
+Airhorn collected!=Воздушный горн на корабле!
+
+Drop Magnifying glass : [G]=Выкинуть лупу: [G]
+Magnifying glass collected!=Увеличительное стекло на корабле!
+
+Use horn : [LMB]=Издать звук: [ЛКМ]
+Drop Clown horn : [G]=Выкинуть клаксон: [G]
+Clown horn collected!=Клоунский клаксон на корабле!
+
+Drop Toy robot : [G]=Выкинуть робота: [G]
+Toy robot collected!=Игрушечный робот на корабле!
+
+Drop Jar of pickles : [G]=Выкинуть банку: [G]
+Jar of pickles collected!=Банка соленых огурцов на корабле!
+
+Toggle laser : [LMB]=ВКЛ/ВЫКЛ: [ЛКМ]
+Drop Laser pointer : [G]=Выкинуть указку: [G]
+Laser pointer collected!=Лазерная указка на корабле!
+
+Drop Cookie mold pan : [G]=Выкинуть форму: [G]
+Cookie mold pan collected!=Форма для выпечки на корабле!
+
+Use remote : [LMB]=Нажать на кнопку: [ЛКМ]
+Drop Remote : [G]=Выкинуть пульт: [G]
+Remote collected!=Пульт на корабле!
+
+Drop Toy cube : [G]=Выкинуть кубик Рубика: [G]
+Toy cube collected!=Кубик Рубика на корабле!
+
+Open gift : [LMB]=Распаковать: [ЛКМ]
+Drop Gift : [G]=Выкинуть подарок: [G]
+Gift collected!=Подарочная коробка на корабле!
+
+Use DIY-Flashbang : [LMB]=Использовать: [ЛКМ]
+Pull pin: [LMB]=Потянуть за чеку: [ЛКМ]
+Drop Homemade flashbang : [G]=Выкинуть гранату: [G]
+Homemade flashbang collected!=Самодельная граната на корабле!
+
+Fire : [LMB]=Стрелять: [ЛКМ]
+Reload : [E]=Перезарядить: [E]
+Turn safety on: [Q]=Поставить на предохр.: [Q]
+Turn safety off: [Q]=Снять с предохр.: [Q]
+Drop Shotgun : [G]=Выкинуть двустволку: [G]
+Drop Shells : [G]=Выкинуть патрон: [G]
+Shotgun collected!=Двустволка на корабле!
+Shells collected!=Патрон на корабле!

@@ -1,0 +1,45 @@
+﻿CELESTIAL BODY:=НЕБЕСНОЕ ТЕЛО:
+Orbiting:=Орбита:
+41 Experimentation=41 Experimentation
+220 Assurance=220 Assurance
+71 Gordion=71 Gordion
+56 Vow=56 Vow
+21 Offense=21 Offense
+61 March=61 March
+85 Rend=85 Rend
+7 Dine=7 Dine
+8 Titan=8 Titan
+Voiumya-10=Voiumya-10
+
+POPULATION:=НАСЕЛЕНИЕ:
+Abandoned=Заброшено.
+Unknown=Неизвестно.
+None=Отсутствует.
+
+CONDITIONS:=УСЛОВИЯ:
+Arid. Thick haze, worsened by industrial artifacts.=Засуха. Густая дымка, усугубленная промышленными артефактами.
+Jagged and weathered terrain.=Неровная и выветриваемая местность.
+No land masses. Continual storms.=Земельных массивов нет. Непрерывные штормы.
+Humid. Rough terrain. Teeming with plant-life.=Повышенная влажность. Пересеченная местность. Обилие растительности.
+Expansive. Constant rain.=Обширная местность. Постоянные дожди.
+Frozen, rocky. Its planet orbits a white dwarf star.=Заледенения, каменистость. Вращается вокруг белого карлика.
+Frozen, rocky. This moon was mined for resources. It's easy to get lost here.=Заледенения, каменистость. Ранее добывали ресурсы. Легко заблудиться.
+
+FAUNA:=ФАУНА:
+Dominated by a few species.=Доминирование нескольких видов.
+Ecosystem supports territorial behaviour.=Территориальное поведение в экосистеме.
+A competitive ecosystem supports aggressive lifeforms.=Конкурирующие агрессивные формы жизни.
+Diverse=Разнообразие.
+Unlikely for complex life to exist=Существование сложной жизни маловероятно.
+Dangerous entities have been rumored to take residence in the vast network of tunnels.=В туннелях поселились опасные существа.
+
+Where the Company resides.=Место, где располагается Компания.
+
+Weather:=Метеоявление:
+Eclipsed=затмение.
+Stormy=гроза.
+Foggy=туман.
+Flooded=наводнение.
+Rainy=дождь.
+
+CHARACTERS LEFT:=ОСТАЛОСЬ СИМВОЛОВ:

@@ -11,8 +11,7 @@ UnityPlayer.dll
 winmm.dll
 winmm.txt
 Lethal Company_Data/*
-!Lethal Company_Data/sharedassets1.assets
-!Lethal Company_Data/sharedassets3.assets
+BepInEx/cache/
 
 .thunderstoremm
 FreeTP.Org.url
