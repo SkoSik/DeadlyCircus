@@ -35,7 +35,7 @@ Dangerous entities have been rumored to take residence in the vast network of tu
 
 Where the Company resides.=Место, где располагается Компания.
 
-Weather:=Метеоявление:
+Weather:=Погода:
 Eclipsed=затмение.
 Stormy=гроза.
 Foggy=туман.
