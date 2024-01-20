@@ -1,1 +1,1 @@
-{"overrides":[{"action":"EmoteWheel","origPath":"<Keyboard>/c","path":"<Keyboard>/v"},{"action":"JoinEmote","origPath":"<Keyboard>/v","path":"<Keyboard>/e"}]}
+{"overrides":[{"action":"EmoteWheel","origPath":"<Keyboard>/c","path":"<Keyboard>/v"},{"action":"RandomEmote","origPath":"<Keyboard>/f","path":"<Keyboard>/r"},{"action":"JoinEmote","origPath":"<Keyboard>/v","path":"<Keyboard>/f"}]}
