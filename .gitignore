@@ -15,6 +15,7 @@ BepInEx/cache/*
 BepInEx/LogOutput.log
 
 BepInEx/plugins/assetbundles/baddassaudio
+BepInEx/plugins/AtlasAbyss/atlasabyssscene.lethalbundle
 
 .thunderstoremm
 FreeTP.Org.url
