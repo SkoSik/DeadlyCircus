@@ -1,4 +1,4 @@
-HANDS FULL=РУКИ ЗАНЯТЫ
+﻿HANDS FULL=РУКИ ЗАНЯТЫ
 Inventory full!=[нет места в инвентаре]
 [Hands full]=[руки заняты]
 [Wait for ship to land]=[дождитесь остановки корабля]
@@ -23,7 +23,7 @@ Oxygen critically low!=Низкий уровень кислорода!
 (Some were too far to receive your message.)=Некоторые были слишком далеко, чтобы получить ваше сообщение.
 
 Connecting to host...=Подключение...
-Loading...=Загрузка...\n\n\n\n\n\nDeadlyСircus by SkoSik
+Loading...=Загрузка...
 Started server, joining...=Сервер запущен, присоединение...
 Autosaving...=Автосохранение...
 
