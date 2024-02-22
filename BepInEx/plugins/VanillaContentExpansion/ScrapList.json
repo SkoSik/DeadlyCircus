@@ -1,0 +1,412 @@
+{
+	"SCRAP": [
+		{
+			"name": "RETRO_PC",
+			"path": "Assets/content/scrap/items/case_item.asset",
+			"weights": [ 2, 2, 2, 2, 2, 4, 4, 3 ],
+			"minValue": 90,
+			"maxValue": 110,
+			"itemWeight": 1.24
+		},
+		{
+			"name": "CHIP",
+			"path": "Assets/content/scrap/items/chip_item.asset",
+			"weights": [ 6, 6, 6, 6, 6, 1, 1, 8 ],
+			"minValue": 45,
+			"maxValue": 60,
+			"itemWeight": 1.02
+		},
+		{
+			"name": "FAN",
+			"path": "Assets/content/scrap/items/fan_item.asset",
+			"weights": [ 6, 6, 6, 6, 6, 1, 1, 8 ],
+			"minValue": 30,
+			"maxValue": 50,
+			"itemWeight": 1.03
+		},
+		{
+			"name": "GAS_CAN",
+			"path": "Assets/content/scrap/items/gascan_item.asset",
+			"weights": [ 8, 8, 8, 8, 8, 2, 2, 6 ],
+			"minValue": 30,
+			"maxValue": 40,
+			"itemWeight": 1.07
+		},
+		{
+			"name": "BEAM",
+			"path": "Assets/content/scrap/items/metal_beam_item.asset",
+			"weights": [ 2, 2, 2, 3, 3, 0, 0, 4 ],
+			"minValue": 80,
+			"maxValue": 110,
+			"itemWeight": 1.46
+		},
+		{
+			"name": "CRT",
+			"path": "Assets/content/scrap/items/monitor_item.asset",
+			"weights": [ 2, 2, 2, 2, 2, 4, 4, 3 ],
+			"minValue": 60,
+			"maxValue": 90,
+			"itemWeight": 1.15
+		},
+		{
+			"name": "PARTS_BOX",
+			"path": "Assets/content/scrap/items/parts_box_item.asset",
+			"weights": [ 5, 5, 5, 6, 6, 2, 2, 7 ],
+			"minValue": 52,
+			"maxValue": 72,
+			"itemWeight": 1.01
+		},
+		{
+			"name": "WIRE_SPOOL",
+			"path": "Assets/content/scrap/items/wire_spool_item.asset",
+			"weights": [ 8, 8, 8, 10, 10, 4, 4, 10 ],
+			"minValue": 25,
+			"maxValue": 40,
+			"itemWeight": 1.1
+		},
+		{
+			"name": "BEARING",
+			"path": "Assets/content/scrap_2/items/bearing_item.asset",
+			"weights": [ 10, 10, 10, 10, 10, 4, 4, 10 ],
+			"minValue": 12,
+			"maxValue": 24,
+			"itemWeight": 1.01
+		},
+		{
+			"name": "METALDISK",
+			"path": "Assets/content/scrap_2/items/metaldisk_item.asset",
+			"weights": [ 10, 10, 10, 10, 10, 4, 4, 10 ],
+			"minValue": 12,
+			"maxValue": 24,
+			"itemWeight": 1.02
+		},
+		{
+			"name": "MOTOR",
+			"path": "Assets/content/scrap_2/items/motor_item.asset",
+			"weights": [ 10, 10, 10, 10, 10, 4, 4, 10 ],
+			"minValue": 12,
+			"maxValue": 24,
+			"itemWeight": 1.01
+		},
+		{
+			"name": "STATOR",
+			"path": "Assets/content/scrap_2/items/stator_item.asset",
+			"weights": [ 10, 10, 10, 10, 10, 4, 4, 10 ],
+			"minValue": 16,
+			"maxValue": 28,
+			"itemWeight": 1.01
+		},
+		{
+			"name": "COMPESSOR",
+			"path": "Assets/content/scrap_2/items/compressor_item.asset",
+			"weights": [ 6, 6, 6, 6, 6, 2, 2, 6 ],
+			"minValue": 28,
+			"maxValue": 40,
+			"itemWeight": 1.09
+		},
+		{
+			"name": "GEAR1",
+			"path": "Assets/content/scrap_2/items/gear_1_item.asset",
+			"weights": [ 10, 10, 10, 10, 10, 4, 4, 10 ],
+			"minValue": 18,
+			"maxValue": 35,
+			"itemWeight": 1.01
+		},
+		{
+			"name": "GEAR2",
+			"path": "Assets/content/scrap_2/items/gear_2_item.asset",
+			"weights": [ 10, 10, 10, 10, 10, 4, 4, 10 ],
+			"minValue": 18,
+			"maxValue": 35,
+			"itemWeight": 1.01
+		},
+		{
+			"name": "GEAR3",
+			"path": "Assets/content/scrap_2/items/gear_3_item.asset",
+			"weights": [ 10, 10, 10, 10, 10, 4, 4, 10 ],
+			"minValue": 18,
+			"maxValue": 35,
+			"itemWeight": 1.01
+		},
+		{
+			"name": "SCREW1",
+			"path": "Assets/content/scrap_2/items/screw_1_item.asset",
+			"weights": [ 10, 10, 10, 10, 10, 4, 4, 10 ],
+			"minValue": 18,
+			"maxValue": 35,
+			"itemWeight": 1.01
+		},
+		{
+			"name": "SCREW2",
+			"path": "Assets/content/scrap_2/items/screw_2_item.asset",
+			"weights": [ 10, 10, 10, 10, 10, 4, 4, 10 ],
+			"minValue": 18,
+			"maxValue": 35,
+			"itemWeight": 1.01
+		},
+		{
+			"name": "SCREW3",
+			"path": "Assets/content/scrap_2/items/screw_3_item.asset",
+			"weights": [ 10, 10, 10, 10, 10, 4, 4, 10 ],
+			"minValue": 18,
+			"maxValue": 35,
+			"itemWeight": 1.01
+		},
+		{
+			"name": "FLOPPY_DISK",
+			"path": "Assets/content/scrap_2/items/floppydisk_item.asset",
+			"weights": [ 6, 6, 6, 7, 7, 8, 8, 8 ],
+			"minValue": 32,
+			"maxValue": 64,
+			"itemWeight": 1.02
+		},
+		{
+			"name": "WRENCH",
+			"path": "Assets/content/scrap_2/items/weapon_wrench_item.asset",
+			"weights": [ 6, 6, 6, 7, 7, 6, 6, 8 ],
+			"minValue": 60,
+			"maxValue": 90,
+			"itemWeight": 1.24
+		},
+		{
+			"name": "LOST_HELMET",
+			"path": "Assets/content/scrap_2/items/helmet_item 20.asset",
+			"weights": [ 6, 6, 6, 9, 9, 10, 10, 10 ],
+			"minValue": 42,
+			"maxValue": 52,
+			"itemWeight": 1.02
+		},
+		{
+			"name": "LOST_TANK",
+			"path": "Assets/content/scrap_2/items/tanks_item.asset",
+			"weights": [ 6, 6, 6, 9, 9, 10, 10, 10 ],
+			"minValue": 44,
+			"maxValue": 62,
+			"itemWeight": 1.06
+		},
+		{
+			"name": "AERIAL_DISH",
+			"path": "Assets/content/scrap_2/items/aerialdish_item.asset",
+			"weights": [ 2, 2, 2, 3, 3, 4, 4, 4 ],
+			"minValue": 110,
+			"maxValue": 130,
+			"itemWeight": 1.44
+		},
+		{
+			"name": "MISSILE",
+			"path": "Assets/content/scrap_2/items/missile_item.asset",
+			"weights": [ 2, 2, 2, 3, 3, 4, 4, 4 ],
+			"minValue": 90,
+			"maxValue": 130,
+			"itemWeight": 1.2
+		},
+		{
+			"name": "GENERATOR",
+			"path": "Assets/content/scrap_2/items/generator_item.asset",
+			"weights": [ 2, 2, 2, 3, 3, 5, 5, 4 ],
+			"minValue": 68,
+			"maxValue": 92,
+			"itemWeight": 1.28
+		},
+		{
+			"name": "OIL_DRUM",
+			"path": "Assets/content/scrap_2/items/oildrum_item.asset",
+			"weights": [ 2, 2, 2, 3, 3, 4, 4, 4 ],
+			"minValue": 90,
+			"maxValue": 140,
+			"itemWeight": 1.45
+		},
+		{
+			"name": "STUDIO_CAM",
+			"path": "Assets/content/scrap_2/items/studiocamera_item.asset",
+			"weights": [ 3, 3, 3, 4, 4, 5, 5, 4 ],
+			"minValue": 0,
+			"maxValue": 1,
+			"itemWeight": 1.18
+		},
+		{
+			"name": "SIX_PIN_CABLE",
+			"path": "Assets/content/scrap_3/items/6pin_cable_item.asset",
+			"weights": [ 10, 10, 10, 10, 10, 4, 4, 10 ],
+			"minValue": 18,
+			"maxValue": 35,
+			"itemWeight": 1.01
+		},
+		{
+			"name": "CAPACITOR",
+			"path": "Assets/content/scrap_3/items/capacitor_item.asset",
+			"weights": [ 8, 8, 8, 8, 8, 4, 4, 8 ],
+			"minValue": 22,
+			"maxValue": 42,
+			"itemWeight": 1.02
+		},
+		{
+			"name": "DIODE",
+			"path": "Assets/content/scrap_3/items/diode_item.asset",
+			"weights": [ 8, 8, 8, 8, 8, 4, 4, 8 ],
+			"minValue": 22,
+			"maxValue": 42,
+			"itemWeight": 1.02
+		},
+		{
+			"name": "TRANSISTOR",
+			"path": "Assets/content/scrap_3/items/transistor_item.asset",
+			"weights": [ 8, 8, 8, 8, 8, 4, 4, 8 ],
+			"minValue": 22,
+			"maxValue": 42,
+			"itemWeight": 1.01
+		},
+		{
+			"name": "MAGNET",
+			"path": "Assets/content/scrap_3/items/magnet_item.asset",
+			"weights": [ 5, 5, 5, 5, 5, 6, 6, 5 ],
+			"minValue": 30,
+			"maxValue": 50,
+			"itemWeight": 1.02
+		},
+		{
+			"name": "TAPE",
+			"path": "Assets/content/scrap_3/items/tape_item.asset",
+			"weights": [ 8, 8, 8, 8, 8, 6, 6, 8 ],
+			"minValue": 22,
+			"maxValue": 32,
+			"itemWeight": 1.02
+		},
+		{
+			"name": "TAPE_MEASURE",
+			"path": "Assets/content/scrap_3/items/tape_measure_item.asset",
+			"weights": [ 8, 8, 8, 8, 8, 6, 6, 8 ],
+			"minValue": 22,
+			"maxValue": 45,
+			"itemWeight": 1.02
+		},
+		{
+			"name": "FLIP_PHONE",
+			"path": "Assets/content/scrap_3/items/flip_phone_interactable_item.asset",
+			"weights": [ 3, 3, 3, 3, 3, 4, 4, 4 ],
+			"minValue": 46,
+			"maxValue": 72,
+			"itemWeight": 1.03
+		},
+		{
+			"name": "CONTROL_PANEL",
+			"path": "Assets/content/scrap_3/items/control_panel_item.asset",
+			"weights": [ 4, 4, 4, 4, 4, 1, 1, 4 ],
+			"minValue": 48,
+			"maxValue": 64,
+			"itemWeight": 1.05
+		},
+		{
+			"name": "CAR_BATTERY",
+			"path": "Assets/content/scrap_3/items/car_battery_item.asset",
+			"weights": [ 4, 4, 4, 4, 4, 2, 2, 4 ],
+			"minValue": 42,
+			"maxValue": 60,
+			"itemWeight": 1.1
+		},
+		{
+			"name": "PISTON",
+			"path": "Assets/content/scrap_3/items/piston_item.asset",
+			"weights": [ 5, 5, 5, 5, 5, 3, 3, 5 ],
+			"minValue": 56,
+			"maxValue": 80,
+			"itemWeight": 1.15
+		},
+		{
+			"name": "AC_UNIT",
+			"path": "Assets/content/scrap_5/items/ac_unit_item.asset",
+			"weights": [ 3, 3, 3, 3, 3, 4, 4, 4 ],
+			"minValue": 65,
+			"maxValue": 92,
+			"itemWeight": 1.20
+		},
+		{
+			"name": "ALARM_CLOCK",
+			"path": "Assets/content/scrap_5/items/alarmclock_item.asset",
+			"weights": [ 6, 6, 6, 6, 6, 8, 8, 6 ],
+			"minValue": 32,
+			"maxValue": 48,
+			"itemWeight": 1.04
+		},
+		{
+			"name": "BATTERY",
+			"path": "Assets/content/scrap_5/items/battery_item.asset",
+			"weights": [ 5, 5, 5, 5, 5, 5, 5, 5 ],
+			"minValue": 18,
+			"maxValue": 24,
+			"itemWeight": 1.01
+		},
+		{
+			"name": "BATTERY_2",
+			"path": "Assets/content/scrap_5/items/battery_2_item.asset",
+			"weights": [ 5, 5, 5, 5, 5, 5, 5, 5 ],
+			"minValue": 20,
+			"maxValue": 26,
+			"itemWeight": 1.01
+		},
+		{
+			"name": "POLAROID_CAMERA",
+			"path": "Assets/content/scrap_5/items/camera_item.asset",
+			"weights": [ 6, 6, 6, 6, 6, 8, 8, 6 ],
+			"minValue": 32,
+			"maxValue": 64,
+			"itemWeight": 1.04
+		},
+		{
+			"name": "JET_ENGINE",
+			"path": "Assets/content/scrap_5/items/jet_engine_item.asset",
+			"weights": [ 1, 1, 1, 2, 2, 0, 0, 3 ],
+			"minValue": 160,
+			"maxValue": 225,
+			"itemWeight": 1.70
+		},
+		{
+			"name": "LIGHT_BULB",
+			"path": "Assets/content/scrap_5/items/lightbulb_item.asset",
+			"weights": [ 4, 4, 4, 4, 4, 6, 6, 4 ],
+			"minValue": 16,
+			"maxValue": 24,
+			"itemWeight": 1.02
+		},
+		{
+			"name": "LIGHTER",
+			"path": "Assets/content/scrap_5/items/lighter_item.asset",
+			"weights": [ 4, 4, 4, 4, 4, 6, 6, 4 ],
+			"minValue": 24,
+			"maxValue": 38,
+			"itemWeight": 1.02
+		},
+		{
+			"name": "NEON_SIGN",
+			"path": "Assets/content/scrap_5/items/neon_sign_item.asset",
+			"weights": [ 2, 2, 2, 4, 4, 6, 6, 4 ],
+			"minValue": 55,
+			"maxValue": 82,
+			"itemWeight": 1.16
+		},
+		{
+			"name": "PROPANE_TANK",
+			"path": "Assets/content/scrap_5/items/propane_tank_item.asset",
+			"weights": [ 4, 4, 4, 4, 4, 2, 2, 4 ],
+			"minValue": 44,
+			"maxValue": 65,
+			"itemWeight": 1.1
+		},
+		{
+			"name": "TRAFFIC_LIGHT",
+			"path": "Assets/content/scrap_5/items/traffic_light_item.asset",
+			"weights": [ 2, 2, 2, 4, 4, 4, 4, 5 ],
+			"minValue": 66,
+			"maxValue": 92,
+			"itemWeight": 1.2
+		},
+		{
+			"name": "VICE",
+			"path": "Assets/content/scrap_5/items/vice_item.asset",
+			"weights": [ 6, 6, 6, 6, 6, 5, 5, 6 ],
+			"minValue": 18,
+			"maxValue": 28,
+			"itemWeight": 1.02
+		},
+	]
+}

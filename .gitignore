@@ -14,7 +14,7 @@ Lethal Company_Data/*
 BepInEx/cache/*
 BepInEx/LogOutput.log
 
-BepInEx/plugins/assetbundles/baddassaudio
+BepInEx/plugins/BadAssCompany/assetbundles/baddassaudio
 
 .thunderstoremm
 FreeTP.Org.url
